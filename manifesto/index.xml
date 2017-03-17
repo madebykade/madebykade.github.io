@@ -15,7 +15,88 @@
       <pubDate>Fri, 17 Mar 2017 14:34:28 +0800</pubDate>
       
       <guid>http://madebykade.com/manifesto/basic-income/</guid>
-      <description>&lt;p&gt;Nothing to see here &amp;hellip; yet&lt;/p&gt;
+      <description>
+
+&lt;p&gt;This document describes how full time employees are compensated once they become part of the Kade Collective.&lt;/p&gt;
+
+&lt;h2 id=&#34;the-how&#34;&gt;The How&lt;/h2&gt;
+
+&lt;h5 id=&#34;compensation&#34;&gt;Compensation&lt;/h5&gt;
+
+&lt;ul&gt;
+&lt;li&gt;People who join Kade fulltime become &amp;ldquo;Partners&amp;rdquo;&lt;/li&gt;
+&lt;li&gt;Partners are paid an unconditional basic monthly income - enough for them to live comfortably&lt;/li&gt;
+&lt;li&gt;Kade pays 50% of its profit to partners every year in the form of bonuses. The remaining 50% is re-invested&lt;/li&gt;
+&lt;li&gt;There are 4 tiers of partner, corresponding to their ability
+
+&lt;ul&gt;
+&lt;li&gt;Full Partner (weighting = 10)&lt;/li&gt;
+&lt;li&gt;Senior Partner (weighting = 7)&lt;/li&gt;
+&lt;li&gt;Junior Partner (weighting = 3)&lt;/li&gt;
+&lt;li&gt;Intern (weighting = 1)&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;In this model, if Kade has $840K profit, the bonus pool would be $420K. If there is one of each type of partner in Kade then the total pool weighting would be 21 (10 + 7 + 3 + 1). This means that each weighting &amp;ldquo;unit&amp;rdquo; is worth $20K ($420K / 21). The bonus at the end of the year would be:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Full Partner: $200K (10 * $20K)&lt;/li&gt;
+&lt;li&gt;Senior Partner: $140K (7 * $20K)&lt;/li&gt;
+&lt;li&gt;Junior Partner: $60K (3 * $20K)&lt;/li&gt;
+&lt;li&gt;Intern: $20K (1 * $20K)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;There is an incentive to minimize the number of partners and maximize the profit. Partners are therefore commercially focused as well as operationally focused. There is also an incentive for Partners to live in locations that have a low cost of living.&lt;/p&gt;
+
+&lt;h5 id=&#34;work-80-time&#34;&gt;Work: &amp;ldquo;80% time&amp;rdquo;&lt;/h5&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Partners must spend one day a week (Wednesday) working on improving existing projects. They are always welcome to work on these projects on other days, but have no obligation to do so.&lt;/li&gt;
+&lt;li&gt;On any other day Partners can work on any project they want and utilize the common assets (infrastructure, systems, etc)&lt;/li&gt;
+&lt;li&gt;Partners have unlimited leave. They must follow the &lt;a href=&#34;http://madebykade.com/manifesto/the-sport-star-policy/&#34;&gt;Sport Star Policy&lt;/a&gt; (specifically, do what is best for the team).&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h5 id=&#34;non-partners&#34;&gt;Non-partners&lt;/h5&gt;
+
+&lt;p&gt;Kade still employs people as non-partners (usually outsourced) for menial tasks that don&amp;rsquo;t directly contribute to the culture of collaboration. The type of work which is required to be performed in Kade is as important as the people who become partners. If they work doesn&amp;rsquo;t directly contribute to an individual&amp;rsquo;s growth, the company covers the cost. The message is simple: Partners help Kade grow, Kade helps Partners to grow.&lt;/p&gt;
+
+&lt;h2 id=&#34;challenges&#34;&gt;Challenges&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;There will be friction arise around how soon a partner should be promoted
+
+&lt;ul&gt;
+&lt;li&gt;360 / evaluations?&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Dealing with underperforming partners. Possible mitigations:
+
+&lt;ul&gt;
+&lt;li&gt;360 / evaluations?&lt;/li&gt;
+&lt;li&gt;Long probation periods with constant feedback&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Partners who join could immediately be earning more than others who have been with the company a long time. Possible mitigations:
+
+&lt;ul&gt;
+&lt;li&gt;add a yearly multiplier / bonus?&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Outsourcing menial jobs is probably not efficient in the long term. Possible mitigations:
+
+&lt;ul&gt;
+&lt;li&gt;Get an internal operations team, but they should be managed separately to allow them to develop their own culture&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;version-history&#34;&gt;Version History&lt;/h2&gt;
+
+&lt;h4 id=&#34;0-2-conceptualization&#34;&gt;0.2 - Conceptualization&lt;/h4&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Laid out a conceptual framework.&lt;/li&gt;
+&lt;li&gt;Added compensation model&lt;/li&gt;
+&lt;li&gt;Added work model (80% time)&lt;/li&gt;
+&lt;li&gt;Added section for non-partners&lt;/li&gt;
+&lt;li&gt;Highlighted some key challenges that might arise&lt;/li&gt;
+&lt;/ul&gt;
 </description>
     </item>
     
@@ -25,7 +106,11 @@
       <pubDate>Fri, 17 Mar 2017 14:34:28 +0800</pubDate>
       
       <guid>http://madebykade.com/manifesto/reasonable-person-policy/</guid>
-      <description>&lt;p&gt;Nothing to see here &amp;hellip; yet&lt;/p&gt;
+      <description>
+
+&lt;p&gt;Nothing to see here &amp;hellip; yet&lt;/p&gt;
+
+&lt;h2 id=&#34;only-argue-with-people-who-seek-the-truth&#34;&gt;Only argue with people who seek the truth&lt;/h2&gt;
 </description>
     </item>
     
@@ -36,6 +121,98 @@
       
       <guid>http://madebykade.com/manifesto/the-fristy-protocol/</guid>
       <description>&lt;p&gt;Nothing to see here &amp;hellip; yet&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>The Sport Star Policy</title>
+      <link>http://madebykade.com/manifesto/the-sport-star-policy/</link>
+      <pubDate>Fri, 17 Mar 2017 14:34:28 +0800</pubDate>
+      
+      <guid>http://madebykade.com/manifesto/the-sport-star-policy/</guid>
+      <description>
+
+&lt;h3 id=&#34;overview&#34;&gt;Overview&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Sport stars must be high performers&lt;/li&gt;
+&lt;li&gt;Sport stars are team players&lt;/li&gt;
+&lt;li&gt;Sport stars look after themselves.
+
+&lt;ul&gt;
+&lt;li&gt;They take time of when you need it&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Sport stars love what they do
+
+&lt;ul&gt;
+&lt;li&gt;Get back to work as soon as they are ready&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;evaluation-criteria&#34;&gt;Evaluation criteria&lt;/h3&gt;
+
+&lt;p&gt;Evaluating someone in a tech company is &lt;em&gt;not&lt;/em&gt; like evaluating the performance of a sport star. Sport stars live a metric based existence where the rules are black and white. To be fair to all Partners, we evaluate them on 3 main &amp;ldquo;roles&amp;rdquo; - Business Owner, Team Leader, and High Performer. Each roles can be broken down into day-to-day practices.&lt;/p&gt;
+
+&lt;h5 id=&#34;business-owner&#34;&gt;Business Owner&lt;/h5&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Diligent: Responsible, self motivating, and self disciplined&lt;/li&gt;
+&lt;li&gt;Egoless: seeks what is best for Kade even when it doesn&amp;rsquo;t satisfy their own ego&lt;/li&gt;
+&lt;li&gt;Enjoyable: Contributes to culture&lt;/li&gt;
+&lt;li&gt;Curious: Seeks to understand all parts of the business&lt;/li&gt;
+&lt;li&gt;Humble: Cleans the dishes and picks up trash&lt;/li&gt;
+&lt;li&gt;Sensible: thinks sustainably; incrementally; long term; commercially&lt;/li&gt;
+&lt;li&gt;Inspiring: inspires others through work ethic and contribution&lt;/li&gt;
+&lt;li&gt;Honest: doesn&amp;rsquo;t talk about people behind their backs&lt;/li&gt;
+&lt;li&gt;Candid: gives critical feedback well&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h5 id=&#34;team-leader&#34;&gt;Team Leader&lt;/h5&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Adaptive: Owns and adapts processes to become more effective to increase output&lt;/li&gt;
+&lt;li&gt;Grows the team: Shares workload with team - sets context and offloads tasks when appropriate&lt;/li&gt;
+&lt;li&gt;Shares the load: picks up work from others when workload is imbalanced&lt;/li&gt;
+&lt;li&gt;Patient: lets others complete tasks (even when they can do it themselves) so that the team improves as a whole&lt;/li&gt;
+&lt;li&gt;Effective: pushes back on tasks that aren&amp;rsquo;t a priority or shouldn&amp;rsquo;t be done&lt;/li&gt;
+&lt;li&gt;Efficient: courage to question processes and minimise complexity&lt;/li&gt;
+&lt;li&gt;Self-aware: Honest and quick to admit mistakes&lt;/li&gt;
+&lt;li&gt;Charitable: Makes time to help colleagues&lt;/li&gt;
+&lt;li&gt;Maven: Shares information proactively&lt;/li&gt;
+&lt;li&gt;Stoic: Maintains calm when under stress&lt;/li&gt;
+&lt;li&gt;Embraces diverse working styles. Realises that improvement and conformity are not always related&lt;/li&gt;
+&lt;li&gt;Astute: makes the most of people&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h5 id=&#34;high-performer&#34;&gt;High Performer&lt;/h5&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Huge output: accomplishes amazing amounts of important work&lt;/li&gt;
+&lt;li&gt;Studious: a great learner who is always improving&lt;/li&gt;
+&lt;li&gt;Effective: Smartly prioritize your work&lt;/li&gt;
+&lt;li&gt;Consistent: colleagues can rely on you&lt;/li&gt;
+&lt;li&gt;Gets shit done: Focuses on results rather than getting caught up in the process&lt;/li&gt;
+&lt;li&gt;Holistic: Contributes outside your specialty&lt;/li&gt;
+&lt;li&gt;Risk taker: Takes smart risks&lt;/li&gt;
+&lt;li&gt;Autonomous: Can operate in solo when required. Doesn&amp;rsquo;t require need to be told what to do or require constant input from other team members&lt;/li&gt;
+&lt;li&gt;Creative: Creates idea and strategies that will benefit the company&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;benefits-of-evaluation&#34;&gt;Benefits of evaluation&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Each partner can get a objective view of the area they can improve&lt;/li&gt;
+&lt;li&gt;Colleagues take time to notice the things that you do well&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;version-history&#34;&gt;Version History&lt;/h2&gt;
+
+&lt;h4 id=&#34;0-2-conceptualization&#34;&gt;0.2 - Conceptualization&lt;/h4&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Added &amp;ldquo;Overview&amp;rdquo;&lt;/li&gt;
+&lt;li&gt;Added &amp;ldquo;Evaluation Criteria&amp;rdquo;&lt;/li&gt;
+&lt;/ul&gt;
 </description>
     </item>
     
@@ -60,6 +237,11 @@
 &lt;h3 id=&#34;the-kade-collective-manifesto&#34;&gt;The Kade Collective manifesto&lt;/h3&gt;
 
 &lt;p&gt;See more at &lt;a href=&#34;http://madebykade.com/manifesto&#34;&gt;http://madebykade.com/manifesto&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Our manifesto is an open declaration of how we intend to operate. It is as mutuable as any policy that is confronted with the real world.&lt;/p&gt;
+
+&lt;p&gt;The manifesto is not designed to be universally applicable.
+It is designed to see how a group of like minded people work together while learning a few things about organisational theory along the way. It is strongly shaped by our past experience and iteratively improved upon as we continue to work together.&lt;/p&gt;
 </description>
     </item>
     
