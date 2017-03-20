@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>The Kade Collective</title>
+    <link>http://madebykade.com/categories/manifesto-practices/index.xml</link>
+    <description>Recent content on The Kade Collective</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="http://madebykade.com/categories/manifesto-practices/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Running Projects in Silos</title>
+      <link>http://madebykade.com/manifesto/running-projects-in-silos/</link>
+      <pubDate>Fri, 17 Mar 2017 14:34:28 +0800</pubDate>
+      
+      <guid>http://madebykade.com/manifesto/running-projects-in-silos/</guid>
+      <description>
+
+&lt;p&gt;Profits are paid monthly to Partners in the Kade Collective. This frequency gives the Collective a mindset to incrementally improve the parts of the business that makes it more successful. This policy creates a challenge in that we need track each project individually for continuous improvement.&lt;/p&gt;
+
+&lt;p&gt;All projects are tracked via Google Analytics and Compass. Each project is siloed to cover the key aspects of the project&amp;rsquo;s health:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Revenue&lt;/li&gt;
+&lt;li&gt;Expenses&lt;/li&gt;
+&lt;li&gt;Traffic&lt;/li&gt;
+&lt;li&gt;Customer Acquisition Cost (CAC)&lt;/li&gt;
+&lt;li&gt;Lifetime Value (LTV)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;additional-ways-of-separating&#34;&gt;Additional ways of separating&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;AWS tags: &lt;a href=&#34;https://aws.amazon.com/blogs/aws/aws-cost-allocation/&#34;&gt;https://aws.amazon.com/blogs/aws/aws-cost-allocation/&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>The Evaluation Framework</title>
+      <link>http://madebykade.com/manifesto/the-evaluation-framework/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://madebykade.com/manifesto/the-evaluation-framework/</guid>
+      <description>
+
+&lt;p&gt;Generally a set of &amp;ldquo;company values&amp;rdquo; are useless. The only value we hold at Kade is &lt;strong&gt;improvement&lt;/strong&gt;. Outside of that, individuals are welcome to improve in whatever they believe in. Below is a broad range of attributes that an individual can focus on which we believe contributes the most to themselves and the team.&lt;/p&gt;
+
+&lt;p&gt;Each atrribute represents one of many day-to-day practices that a team member with have, and they are grouped into three broad &amp;ldquo;roles&amp;rdquo; - Business Owner, Team Leader, and High Performer.&lt;/p&gt;
+
+&lt;h5 id=&#34;business-owner&#34;&gt;Business Owner&lt;/h5&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Diligent: Responsible, self motivating, and self disciplined&lt;/li&gt;
+&lt;li&gt;Egoless: seeks what is best for Kade even when it doesn&amp;rsquo;t satisfy their own ego&lt;/li&gt;
+&lt;li&gt;Enjoyable: Contributes to culture&lt;/li&gt;
+&lt;li&gt;Curious: Seeks to understand all parts of the business&lt;/li&gt;
+&lt;li&gt;Humble: Cleans the dishes and picks up trash&lt;/li&gt;
+&lt;li&gt;Sensible: thinks sustainably; incrementally; long term; commercially&lt;/li&gt;
+&lt;li&gt;Inspiring: inspires others through work ethic and contribution&lt;/li&gt;
+&lt;li&gt;Honest: doesn&amp;rsquo;t talk about people behind their backs&lt;/li&gt;
+&lt;li&gt;Candid: gives critical feedback well&lt;/li&gt;
+&lt;li&gt;Calm: if you always look busy it&amp;rsquo;s because you&amp;rsquo;re out of control. Don&amp;rsquo;t be busy, be focused&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h5 id=&#34;team-leader&#34;&gt;Team Leader&lt;/h5&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Adaptive: Owns and adapts processes to become more effective to increase output&lt;/li&gt;
+&lt;li&gt;Grows the team: Shares workload with team - sets context and offloads tasks when appropriate&lt;/li&gt;
+&lt;li&gt;Shares the load: picks up work from others when workload is imbalanced&lt;/li&gt;
+&lt;li&gt;Patient: lets others complete tasks (even when they can do it themselves) so that the team improves as a whole&lt;/li&gt;
+&lt;li&gt;Effective: pushes back on tasks that aren&amp;rsquo;t a priority or shouldn&amp;rsquo;t be done&lt;/li&gt;
+&lt;li&gt;Efficient: courage to question processes and minimise complexity&lt;/li&gt;
+&lt;li&gt;Self-aware: Honest and quick to admit mistakes&lt;/li&gt;
+&lt;li&gt;Charitable: Makes time to help colleagues&lt;/li&gt;
+&lt;li&gt;Maven: Shares information proactively&lt;/li&gt;
+&lt;li&gt;Stoic: Maintains calm when under stress&lt;/li&gt;
+&lt;li&gt;Embraces diverse working styles. Realises that improvement and conformity are not always related&lt;/li&gt;
+&lt;li&gt;Astute: makes the most of people&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h5 id=&#34;high-performer&#34;&gt;High Performer&lt;/h5&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Huge output: accomplishes amazing amounts of important work&lt;/li&gt;
+&lt;li&gt;Studious: a great learner who is always improving&lt;/li&gt;
+&lt;li&gt;Effective: Smartly prioritize your work&lt;/li&gt;
+&lt;li&gt;Consistent: colleagues can rely on you&lt;/li&gt;
+&lt;li&gt;Gets shit done: Focuses on results rather than getting caught up in the process&lt;/li&gt;
+&lt;li&gt;Holistic: Contributes outside your specialty&lt;/li&gt;
+&lt;li&gt;Risk taker: Takes smart risks&lt;/li&gt;
+&lt;li&gt;Autonomous: Can operate in solo when required. Doesn&amp;rsquo;t require need to be told what to do or require constant input from other team members&lt;/li&gt;
+&lt;li&gt;Creative: Creates idea and strategies that will benefit the company&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;notable-exclusions&#34;&gt;Notable exclusions:&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Fun: Fun is a function of actions and not a personal trait. This is incorporated into&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;Kindness: TBD&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;benefits-of-evaluation&#34;&gt;Benefits of evaluation&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Each partner can get a objective view of the area they can improve&lt;/li&gt;
+&lt;li&gt;Colleagues take time to notice the things that you do well&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;typical-archetypes&#34;&gt;Typical archetypes&lt;/h3&gt;
+
+&lt;p&gt;Possible outcomes to watch out for. Usually noticing this in yourself is enough to correct any bad habits&lt;/p&gt;
+
+&lt;h5 id=&#34;the-consultant-strong-performer-weak-team-leader&#34;&gt;The Consultant - Strong Performer, Weak Team Leader&lt;/h5&gt;
+
+&lt;p&gt;This attitude is typically makes a person non-expendable due to their huge work output, but can be quite selfish in terms of their work.
+They will rarely share their work with others in a effort to make themselves more valued/non-expendable
+They usually fail to recognise that being the only one in the team that has their skills/knowledge is not a good thing
+These people are can be Strong Business Owners too - usually very disciplined or work long hours&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Motivations&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;“I only want to share / say when I master this”
+
+&lt;ul&gt;
+&lt;li&gt;Coachable&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;“this is the only thing that kept me ahead in the team”
+
+&lt;ul&gt;
+&lt;li&gt;make the team “safe” and people feel secured and not comparing with each other but competing with world-class external benchamark&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h5 id=&#34;the-friend-strong-business-owner-weak-performer&#34;&gt;The Friend - Strong Business Owner, Weak Performer&lt;/h5&gt;
+
+&lt;p&gt;This is the hard working and affable colleague
+They usually give a 110% to their work and are extremely likeable&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Motivations&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&amp;ldquo;I know I can&amp;rsquo;t keep up with the team so I will work extra hard&amp;rdquo;
+
+&lt;ul&gt;
+&lt;li&gt;Determine whether they can upskill quickly or not&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Self awareness is low - believes they are performing well even though the are not
+
+&lt;ul&gt;
+&lt;li&gt;Call out early - give them feedback&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&#34;the-delegator-strong-team-leader-weak-performer&#34;&gt;The Delegator - Strong Team Leader, Weak Performer&lt;/h4&gt;
+
+&lt;p&gt;This person is great at telling you how much work they are doing
+They usually offload their tasks to others, or worse they do the work and it is low quality and has to be redone later on by other team members&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Motivations&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Self awareness is low - believes they are performing well even though the are not
+
+&lt;ul&gt;
+&lt;li&gt;Call out early - give them feedback&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&#34;the-idealist-strong-business-owner-weak-team-leader-and-weak-performer&#34;&gt;The Idealist - Strong Business Owner, Weak Team Leader and weak performer&lt;/h4&gt;
+
+&lt;p&gt;Needs improvement: there is nothing wrong with being an Idealist. You must be consistent and back up what you say though
+This person is great at inspiring others
+Overall this person lacks consistency
+Great with large crowds and usually one on one - normally not great at managing or working in a team or interpersonal dynamics&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Weekly Routine</title>
+      <link>http://madebykade.com/manifesto/weekly-routine/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://madebykade.com/manifesto/weekly-routine/</guid>
+      <description>
+
+&lt;h2 id=&#34;mandatory&#34;&gt;Mandatory&lt;/h2&gt;
+
+&lt;p&gt;Daily: scrum
+Wednesday: workday&lt;/p&gt;
+
+&lt;h2 id=&#34;optional&#34;&gt;Optional&lt;/h2&gt;
+
+&lt;h4 id=&#34;tuesday&#34;&gt;Tuesday&lt;/h4&gt;
+
+&lt;p&gt;Planning day - what work to do tomorrow&lt;/p&gt;
+
+&lt;h4 id=&#34;friday&#34;&gt;Friday&lt;/h4&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Manifesto retrospective - make changes to the manifesto&lt;/li&gt;
+&lt;li&gt;Swarming&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
