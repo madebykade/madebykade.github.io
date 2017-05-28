@@ -93,43 +93,63 @@ It is designed to see how a group of like minded people work together while lear
 
 &lt;h5 id=&#34;profit-sharing-bonuses&#34;&gt;Profit Sharing Bonuses&lt;/h5&gt;
 
-&lt;p&gt;There are 4 tiers of partner, corresponding to their contribution to the company&lt;/p&gt;
+&lt;p&gt;There are 3 types of partner, corresponding to their contribution to the company&lt;/p&gt;
 
 &lt;ul&gt;
 &lt;li&gt;Full Partner (weighting = 10)&lt;/li&gt;
 &lt;li&gt;Senior Partner (weighting = 7)&lt;/li&gt;
 &lt;li&gt;Junior Partner (weighting = 3)&lt;/li&gt;
-&lt;li&gt;Intern (weighting = 1)&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;Each month the total bonus pool is split among the partners.&lt;/p&gt;
+&lt;p&gt;Each month the total bonus pool is split among the partners who are still active in the company.&lt;/p&gt;
 
 &lt;p&gt;&lt;em&gt;Example&lt;/em&gt;&lt;/p&gt;
 
-&lt;p&gt;If Kade has $84K profit, the bonus pool would be $42K (84K * 50%). If there is one of each type of partner in Kade then the total pool weighting would be 21 (10 + 7 + 3 + 1). This means that each weighting &amp;ldquo;unit&amp;rdquo; is worth $20K ($420K / 21). The bonus at the end of the year would be:&lt;/p&gt;
+&lt;p&gt;If Kade has $80K profit one month, the bonus pool would be $40K (80K * 50%). If there are 3 partners in the company - one Junior, one Senior, one Full - then the total bonus pool would be 20 (10 + 7 + 3). The bonus payout would be as follows:&lt;/p&gt;
 
-&lt;ul&gt;
-&lt;li&gt;Full Partner: $200K (10 * $20K)&lt;/li&gt;
-&lt;li&gt;Senior Partner: $140K (7 * $20K)&lt;/li&gt;
-&lt;li&gt;Junior Partner: $60K (3 * $20K)&lt;/li&gt;
-&lt;li&gt;Intern: $20K (1 * $20K)&lt;/li&gt;
-&lt;/ul&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Partner&lt;/th&gt;
+&lt;th&gt;Weighting&lt;/th&gt;
+&lt;th&gt;Bonus&lt;/th&gt;
+&lt;th&gt;Explanation&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
 
-&lt;p&gt;|                     | Weighting   | Bonus ($)     |
-| &amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;-       |:&amp;mdash;&amp;mdash;&amp;mdash;&amp;ndash;:| &amp;mdash;&amp;ndash;        :|
-| Full Partner        | 10          |  $21,000      |
-| Senior Partner      | 7           |   $14,700     |
-| Junior Partner      | 3           |    $6,300     |&lt;/p&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;Full Partner&lt;/td&gt;
+&lt;td&gt;10&lt;/td&gt;
+&lt;td&gt;$21,000&lt;/td&gt;
+&lt;td&gt;10 out of 20 points from the bonus pool (50%). They get 50% of the profit share&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Senior Partner&lt;/td&gt;
+&lt;td&gt;7&lt;/td&gt;
+&lt;td&gt;$14,700&lt;/td&gt;
+&lt;td&gt;7 out of 20 points from the bonus pool (35%). They get 35% of the profit share&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Junior Partner&lt;/td&gt;
+&lt;td&gt;3&lt;/td&gt;
+&lt;td&gt;$6,300&lt;/td&gt;
+&lt;td&gt;3 out of 20 points from the bonus pool (15%). They get 15% of the profit share&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
 
 &lt;p&gt;There is an incentive to minimize the number of partners and maximize the profit. Partners are therefore commercially focused as well as operationally focused.&lt;/p&gt;
 
-&lt;h5 id=&#34;work-80-time&#34;&gt;Work: &amp;ldquo;80% time&amp;rdquo;&lt;/h5&gt;
+&lt;h5 id=&#34;work-3-day-week&#34;&gt;Work: 3 day week&lt;/h5&gt;
 
 &lt;ul&gt;
-&lt;li&gt;Partners must spend one day a week (Wednesday) working on improving existing projects. They are always welcome to work on these projects on other days, but have no obligation to do so.&lt;/li&gt;
-&lt;li&gt;Besides Wednesday, Partners can work on any project they want and utilize the common assets (infrastructure, systems, etc). This can include self driven learning&lt;/li&gt;
-&lt;li&gt;All projects are owned by Kade&lt;/li&gt;
-&lt;li&gt;Partners are expected to work full time but, conversely, they have unlimited leave. They must follow the &lt;a href=&#34;http://madebykade.com/manifesto/the-sport-star-policy/&#34;&gt;Sport Star Policy&lt;/a&gt; (specifically, do what is best for the team).&lt;/li&gt;
+&lt;li&gt;Partners are expected to work 3 days per week on Kade Projects.&lt;/li&gt;
+&lt;li&gt;Partners are expected to work for 2 days per week in the &lt;a href=&#34;http://madebykade.com/manifesto/frat-house&#34;&gt;Frat House&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Partners have unlimited leave.&lt;/li&gt;
+&lt;li&gt;Partners are expected to uphold the &lt;a href=&#34;http://madebykade.com/manifesto/the-sport-star-policy/&#34;&gt;Sport Star Policy&lt;/a&gt; (specifically, do what is best for the team).&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h5 id=&#34;non-partners&#34;&gt;Non-partners&lt;/h5&gt;
@@ -189,16 +209,25 @@ It is designed to see how a group of like minded people work together while lear
 
 &lt;h2 id=&#34;internal-transparency&#34;&gt;Internal transparency&lt;/h2&gt;
 
-&lt;p&gt;Everyone who is part of the Kade Collective  practices &lt;a href=&#34;http://firstround.com/review/radical-candor-the-surprising-secret-to-being-a-good-boss/&#34;&gt;Radical Condor&lt;/a&gt;.
+&lt;p&gt;Everyone who is part of the Kade Collective practices &lt;a href=&#34;http://firstround.com/review/radical-candor-the-surprising-secret-to-being-a-good-boss/&#34;&gt;Radical Condor&lt;/a&gt;.
 This means that we are 100% transparent internally. Everything to do with strategy and personal performance is discussed openly.&lt;/p&gt;
 
 &lt;h2 id=&#34;public-facing-transparency&#34;&gt;Public facing transparency&lt;/h2&gt;
 
-&lt;p&gt;Everything else is public, besides the exceptions below. That include salaries, profit, revenues, traffic, general practices.&lt;/p&gt;
+&lt;p&gt;The following is public&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Salaries&lt;/li&gt;
+&lt;li&gt;Profit&lt;/li&gt;
+&lt;li&gt;Revenues&lt;/li&gt;
+&lt;li&gt;Traffic&lt;/li&gt;
+&lt;li&gt;General Practices&lt;/li&gt;
+&lt;/ul&gt;
 
 &lt;h2 id=&#34;what-are-the-exceptions&#34;&gt;What are the exceptions?&lt;/h2&gt;
 
 &lt;ul&gt;
+&lt;li&gt;Company valuations (this is because it may scare off investors. If their appetitie is public, then it could harm them when trying to close deals in the future)&lt;/li&gt;
 &lt;li&gt;If a project does not directly belong to us, we will only expose information that already publicly available&lt;/li&gt;
 &lt;li&gt;We will not expose any practices which give us a competitive advantage&lt;/li&gt;
 &lt;/ul&gt;
@@ -224,6 +253,26 @@ This means that we are 100% transparent internally. Everything to do with strate
     </item>
     
     <item>
+      <title>Frat House</title>
+      <link>http://madebykade.com/manifesto/frat-house/</link>
+      <pubDate>Fri, 17 Mar 2017 14:34:28 +0800</pubDate>
+      
+      <guid>http://madebykade.com/manifesto/frat-house/</guid>
+      <description>&lt;p&gt;Purpose of this page: this page describes how the incubator works. TL;DR: Kade will incubate other companies in exchange for 10% equity. Kade will provide seed capital, expertise, and access to all collective assets.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;
+
+&lt;h4 id=&#34;frat-house&#34;&gt;Frat House&lt;/h4&gt;
+
+&lt;ul&gt;
+&lt;li&gt;give 20K USD&lt;/li&gt;
+&lt;li&gt;take 10% equity&lt;/li&gt;
+&lt;li&gt;Partners help build the company&lt;/li&gt;
+&lt;li&gt;companies need to adhere to the transparency policy (show numbers, traffic etc) - this will be published by Kade each month anyhow. Valuations are not required to be&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    
+    <item>
       <title>Retirement Fund</title>
       <link>http://madebykade.com/manifesto/retirement-fund/</link>
       <pubDate>Fri, 17 Mar 2017 14:34:28 +0800</pubDate>
@@ -233,53 +282,48 @@ This means that we are 100% transparent internally. Everything to do with strate
 
 &lt;p&gt;&lt;/p&gt;
 
-&lt;h4 id=&#34;calculating-5&#34;&gt;Calculating 5%&lt;/h4&gt;
-
-&lt;p&gt;Since we are a digital company, profits and expenses are calculated monthly (see &lt;a href=&#34;http://madebykade.com/manifesto/running-projects-in-silos&#34;&gt;Running Projects in Silos&lt;/a&gt;).&lt;/p&gt;
-
 &lt;h4 id=&#34;exchange-traded-funds&#34;&gt;Exchange traded Funds&lt;/h4&gt;
 
-&lt;p&gt;This 5% is split evenly between two Exchange traded fund:&lt;/p&gt;
+&lt;p&gt;This 10% is split evenly between two Exchange traded fund:&lt;/p&gt;
 
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;http://etfdb.com/etf/VOO/&#34;&gt;http://etfdb.com/etf/VOO/&lt;/a&gt; (this is an Equities ETF which is chosen because its performance and 0.05% management fee)&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;http://etfdb.com/etf/SCHD/&#34;&gt;http://etfdb.com/etf/SCHD/&lt;/a&gt; (this is an Dividends ETF which is chosen because its performance and 0.07% management fee)&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;This 5% is likely to increase during recessions to capitalise on the increase purchasing power.&lt;/p&gt;
+&lt;p&gt;The retirement funds are traded openly on the stock market, so Partners can always know what the value of their shareholding is.&lt;/p&gt;
 
 &lt;h4 id=&#34;vesting-by-partners&#34;&gt;Vesting by Partners&lt;/h4&gt;
 
-&lt;p&gt;All partners are entitled to the Retirement Fund (Interns are not). Once a partner has passed their probation period they immediately begin vesting a &amp;ldquo;share&amp;rdquo; in the fund. Vesting occurs in monthly cliffs. The number of shares that they vest each month depend on their tier&lt;/p&gt;
+&lt;p&gt;All partners are entitled to the Retirement Fund. Once a partner has passed their probation period (3 months) they immediately begin vesting a &amp;ldquo;share&amp;rdquo; in the fund. Vesting occurs in monthly cliffs. The number of shares that they vest each month depend on their tier&lt;/p&gt;
 
 &lt;ul&gt;
 &lt;li&gt;Full Partner (weighting = 10)&lt;/li&gt;
 &lt;li&gt;Senior Partner (weighting = 7)&lt;/li&gt;
 &lt;li&gt;Junior Partner (weighting = 3)&lt;/li&gt;
-&lt;li&gt;Intern (excluded from Retirement Fund)&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;In this model if there are 2 Full Partners the amount the total shares issued each month is 20 (10 * 2). After a year they would each own 120 shares in the fund (12 months * 10). If another Full partner joined they would also earn 10 shares each month. After 13 months they total breakdown of shares would be:&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Example&lt;/em&gt;&lt;/p&gt;
 
-&lt;ul&gt;
-&lt;li&gt;Partner 1: 130 shares (10 * 13)&lt;/li&gt;
-&lt;li&gt;Partner 2: 130 shares (10 * 13)&lt;/li&gt;
-&lt;li&gt;Partner 3: 10 shares (10 * 1)&lt;/li&gt;
-&lt;/ul&gt;
+&lt;p&gt;If there are one of each partner (all starting at the same time), then after one year the ownership in the Retirement Fund would look like the following:&lt;/p&gt;
 
-&lt;p&gt;The total share pool would be 270, so Partner 1 &amp;amp; 2 each own 48.1% and Partner 3 owns 3.7%.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://madebykade.com/images/retirementfund-example1.png&#34; alt=&#34;alt text&#34; title=&#34;Kade Retirement Fund Example&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;If we used the same scenario, but the&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://madebykade.com/images/retirementfund-example2.png&#34; alt=&#34;alt text&#34; title=&#34;Kade Retirement Fund Example&#34; /&gt;&lt;/p&gt;
 
 &lt;h5 id=&#34;use-of-these-funds-by-kade&#34;&gt;Use of these funds by Kade&lt;/h5&gt;
 
-&lt;p&gt;Kade will not use these funds for business unless it is required for company survival. It will not be used for investment in any other projects.&lt;/p&gt;
+&lt;p&gt;Kade will not use these funds for business. The funds belong to the Partner&lt;/p&gt;
 
 &lt;h5 id=&#34;buying-and-selling-the-shares-by-partners&#34;&gt;Buying and selling the shares by Partners&lt;/h5&gt;
 
-&lt;p&gt;Partners are not allowed to buy shares from other Partners. Partners can only sell shares if they are under extreme financial hardship or when they leave the Kade Collective. In this case Kade will purchase the shares at market rate from the Partner.&lt;/p&gt;
+&lt;p&gt;Since the ETF&amp;rsquo;s are traded publicly, any Partner can sell their shares at the market rate.&lt;/p&gt;
 
 &lt;h5 id=&#34;leaving-the-company&#34;&gt;Leaving the company&lt;/h5&gt;
 
-&lt;p&gt;It is a requirement to sell shares once a Partner leaves the Kade Collective. This is to reduce management overhead and so that departed Partners do not dilute the remaining partners.&lt;/p&gt;</description>
+&lt;p&gt;There is no requirement to sell the shares in the fund when a Partner leaves.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -452,21 +496,6 @@ This means that we are 100% transparent internally. Everything to do with strate
 &lt;ul&gt;
 &lt;li&gt;AWS tags: &lt;a href=&#34;https://aws.amazon.com/blogs/aws/aws-cost-allocation/&#34;&gt;https://aws.amazon.com/blogs/aws/aws-cost-allocation/&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>30 minute rule</title>
-      <link>http://madebykade.com/manifesto/30-minute-rule/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://madebykade.com/manifesto/30-minute-rule/</guid>
-      <description>&lt;p&gt;When you get stuck, you should spend 30 mins trying to solve it yourself&lt;/p&gt;
-
-&lt;p&gt;After you have spent 30 mins, you must reach out for help&lt;/p&gt;
-
-&lt;p&gt;when you reach out for help you should state the things that you have tried
-when you have a problem you should always present 3 possible solutions&lt;/p&gt;
 </description>
     </item>
     
