@@ -24,6 +24,12 @@
 
 &lt;p&gt;The manifesto is not designed to be universally applicable.
 It is designed to see how a group of like minded people work together while learning a few things about organisational theory along the way. It is strongly shaped by our past experience and iteratively improved upon as we continue to work together.&lt;/p&gt;
+
+&lt;h2 id=&#34;todo&#34;&gt;TODO&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Making Decisions - 70% information, don&amp;rsquo;t wait for 90%. Disagree and commit. (Jeff Bezos)&lt;/li&gt;
+&lt;/ul&gt;
 </description>
     </item>
     
@@ -41,12 +47,13 @@ It is designed to see how a group of like minded people work together while lear
 
 &lt;ul&gt;
 &lt;li&gt;People who join Kade fulltime become &amp;ldquo;Partners&amp;rdquo;&lt;/li&gt;
-&lt;li&gt;Partners are paid an unconditional basic monthly income - enough for them to live comfortably&lt;/li&gt;
-&lt;li&gt;Kade pays 50% of its profit to partners every month in the form of bonuses (see below)&lt;/li&gt;
+&lt;li&gt;Kade pays 50% of its profit to partners every month in the form of bonuses (see below).&lt;/li&gt;
 &lt;li&gt;Kade invests 10% of its profit into a retirement fund (see &lt;a href=&#34;http://madebykade.com/manifesto/retirement-fund&#34;&gt;Retirement Fund&lt;/a&gt;)&lt;/li&gt;
 &lt;li&gt;The remaining 40% is used on growth (marketing) or kept as a cash reserve for future projects or to cover basic income&lt;/li&gt;
 &lt;li&gt;Kade covers all expenses for projects (see &lt;a href=&#34;http://madebykade.com/manifesto/collective-assets&#34;&gt;Collective Assets&lt;/a&gt;)&lt;/li&gt;
 &lt;/ul&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://madebykade.com/image/kade-monthly-profit.jpg&#34; alt=&#34;alt text&#34; title=&#34;Kade Monthly Profit&#34; /&gt;&lt;/p&gt;
 
 &lt;h5 id=&#34;profit-sharing-bonuses&#34;&gt;Profit Sharing Bonuses&lt;/h5&gt;
 
@@ -260,6 +267,7 @@ This means that we are 100% transparent internally. Everything to do with strate
 &lt;li&gt;Source management: Github &amp;amp; Bitbucket&lt;/li&gt;
 &lt;li&gt;Continuous integration servers: CircleCI&lt;/li&gt;
 &lt;li&gt;Monitoring and error reporting tools: Sentry, Datadog&lt;/li&gt;
+&lt;li&gt;In-house hardware: GTX970 GPU&amp;rsquo;s for AI/Deep Learning&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h5 id=&#34;communication-collaboration-tools&#34;&gt;Communication &amp;amp; Collaboration tools&lt;/h5&gt;
@@ -343,6 +351,21 @@ This means that we are 100% transparent internally. Everything to do with strate
 &lt;ul&gt;
 &lt;li&gt;AWS tags: &lt;a href=&#34;https://aws.amazon.com/blogs/aws/aws-cost-allocation/&#34;&gt;https://aws.amazon.com/blogs/aws/aws-cost-allocation/&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>30 minute rule</title>
+      <link>http://madebykade.com/manifesto/30-minute-rule/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://madebykade.com/manifesto/30-minute-rule/</guid>
+      <description>&lt;p&gt;When you get stuck, you should spend 30 mins trying to solve it yourself&lt;/p&gt;
+
+&lt;p&gt;After you have spent 30 mins, you must reach out for help&lt;/p&gt;
+
+&lt;p&gt;when you reach out for help you should state the things that you have tried
+when you have a problem you should always present 3 possible solutions&lt;/p&gt;
 </description>
     </item>
     
@@ -523,6 +546,11 @@ Wednesday: workday&lt;/p&gt;
 &lt;li&gt;Manifesto retrospective - make changes to the manifesto&lt;/li&gt;
 &lt;li&gt;Swarming&lt;/li&gt;
 &lt;/ul&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;Superstars (go up) vs rockstars (go out)
+- thought partners: how to manage Superstars&lt;/p&gt;
 </description>
     </item>
     
