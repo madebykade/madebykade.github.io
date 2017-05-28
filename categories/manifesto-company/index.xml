@@ -95,11 +95,11 @@
 &lt;li&gt;Kade covers all expenses for projects (see &lt;a href=&#34;http://madebykade.com/manifesto/collective-assets&#34;&gt;Collective Assets&lt;/a&gt;)&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;&lt;img src=&#34;http://madebykade.com/images/kade-monthly-profit.jpg&#34; alt=&#34;alt text&#34; title=&#34;Kade Monthly Profit&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://madebykade.com/images/kade-monthly-profit.png&#34; alt=&#34;alt text&#34; title=&#34;Kade Monthly Profit&#34; /&gt;&lt;/p&gt;
 
 &lt;h5 id=&#34;profit-sharing-bonuses&#34;&gt;Profit Sharing Bonuses&lt;/h5&gt;
 
-&lt;p&gt;There are 4 tiers of partner, corresponding to their ability&lt;/p&gt;
+&lt;p&gt;There are 4 tiers of partner, corresponding to their contribution to the company&lt;/p&gt;
 
 &lt;ul&gt;
 &lt;li&gt;Full Partner (weighting = 10)&lt;/li&gt;
@@ -108,7 +108,11 @@
 &lt;li&gt;Intern (weighting = 1)&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;In this model, if Kade has $840K profit, the bonus pool would be $420K (840K * 50%). If there is one of each type of partner in Kade then the total pool weighting would be 21 (10 + 7 + 3 + 1). This means that each weighting &amp;ldquo;unit&amp;rdquo; is worth $20K ($420K / 21). The bonus at the end of the year would be:&lt;/p&gt;
+&lt;p&gt;Each month the total bonus pool is split among the partners.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Example&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;If Kade has $84K profit, the bonus pool would be $42K (84K * 50%). If there is one of each type of partner in Kade then the total pool weighting would be 21 (10 + 7 + 3 + 1). This means that each weighting &amp;ldquo;unit&amp;rdquo; is worth $20K ($420K / 21). The bonus at the end of the year would be:&lt;/p&gt;
 
 &lt;ul&gt;
 &lt;li&gt;Full Partner: $200K (10 * $20K)&lt;/li&gt;
@@ -116,6 +120,12 @@
 &lt;li&gt;Junior Partner: $60K (3 * $20K)&lt;/li&gt;
 &lt;li&gt;Intern: $20K (1 * $20K)&lt;/li&gt;
 &lt;/ul&gt;
+
+&lt;p&gt;|                     | Weighting   | Bonus ($)     |
+| &amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;-       |:&amp;mdash;&amp;mdash;&amp;mdash;&amp;ndash;:| &amp;mdash;&amp;ndash;        :|
+| Full Partner        | 10          |  $21,000      |
+| Senior Partner      | 7           |   $14,700     |
+| Junior Partner      | 3           |    $6,300     |&lt;/p&gt;
 
 &lt;p&gt;There is an incentive to minimize the number of partners and maximize the profit. Partners are therefore commercially focused as well as operationally focused.&lt;/p&gt;
 
