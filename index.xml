@@ -18,6 +18,15 @@
     </item>
     
     <item>
+      <title>Umar Rasyden</title>
+      <link>http://madebykade.com/partners/umar-rasyden/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://madebykade.com/partners/umar-rasyden/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title></title>
       <link>http://madebykade.com/manifesto/README/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -468,34 +477,6 @@ This means that we are 100% transparent internally. Everything to do with strate
 &lt;p&gt;Nothing to see here &amp;hellip; yet&lt;/p&gt;
 
 &lt;h2 id=&#34;only-argue-with-people-who-seek-the-truth&#34;&gt;Only argue with people who seek the truth&lt;/h2&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Running Projects in Silos</title>
-      <link>http://madebykade.com/manifesto/running-projects-in-silos/</link>
-      <pubDate>Fri, 17 Mar 2017 14:34:28 +0800</pubDate>
-      
-      <guid>http://madebykade.com/manifesto/running-projects-in-silos/</guid>
-      <description>
-
-&lt;p&gt;Profits are paid monthly to Partners in the Kade Collective. This frequency gives the Collective a mindset to incrementally improve the parts of the business that makes it more successful. This policy creates a challenge in that we need track each project individually for continuous improvement.&lt;/p&gt;
-
-&lt;p&gt;All projects are tracked via Google Analytics and Compass. Each project is siloed to cover the key aspects of the project&amp;rsquo;s health:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Revenue&lt;/li&gt;
-&lt;li&gt;Expenses&lt;/li&gt;
-&lt;li&gt;Traffic&lt;/li&gt;
-&lt;li&gt;Customer Acquisition Cost (CAC)&lt;/li&gt;
-&lt;li&gt;Lifetime Value (LTV)&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;additional-ways-of-separating&#34;&gt;Additional ways of separating&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;AWS tags: &lt;a href=&#34;https://aws.amazon.com/blogs/aws/aws-cost-allocation/&#34;&gt;https://aws.amazon.com/blogs/aws/aws-cost-allocation/&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
 </description>
     </item>
     
