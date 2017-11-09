@@ -1,9 +1,6 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  
-  <url>
-    <loc>http://madebykade.com/</loc>
-  </url>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
     <loc>http://madebykade.com/partners/paul-copplestone/</loc>
@@ -14,30 +11,17 @@
   </url>
   
   <url>
-    <loc>http://madebykade.com/manifesto/README/</loc>
-  </url>
-  
-  <url>
-    <loc>http://madebykade.com/partners/joshen-lim/</loc>
-  </url>
-  
-  <url>
-    <loc>http://madebykade.com/project/driffft/</loc>
-    <lastmod>2017-03-17T15:24:19+08:00</lastmod>
-  </url>
-  
-  <url>
     <loc>http://madebykade.com/manifesto/profit-sharing/</loc>
     <lastmod>2017-03-17T14:34:28+08:00</lastmod>
   </url>
   
   <url>
-    <loc>http://madebykade.com/manifesto/transparency-policy/</loc>
+    <loc>http://madebykade.com/project/kade/</loc>
+    <lastmod>2017-01-17T15:24:19+08:00</lastmod>
   </url>
   
   <url>
-    <loc>http://madebykade.com/project/gas-and-equipment/</loc>
-    <lastmod>2017-03-17T15:24:19+08:00</lastmod>
+    <loc>http://madebykade.com/manifesto/transparency-policy/</loc>
   </url>
   
   <url>
@@ -65,7 +49,7 @@
   </url>
   
   <url>
-    <loc>http://madebykade.com/project/brainee-box/</loc>
+    <loc>http://madebykade.com/project/gas-and-equipment/</loc>
     <lastmod>2017-03-17T15:24:19+08:00</lastmod>
   </url>
   
@@ -93,6 +77,65 @@
   
   <url>
     <loc>http://madebykade.com/manifesto/weekly-routine/</loc>
+  </url>
+  
+  <url>
+    <loc>http://madebykade.com/manifesto/readme/</loc>
+  </url>
+  
+  <url>
+    <loc>http://madebykade.com/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://madebykade.com/partners/joshen-lim/</loc>
+  </url>
+  
+  <url>
+    <loc>http://madebykade.com/categories/manifesto-company/</loc>
+    <lastmod>2017-03-17T14:34:28+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://madebykade.com/categories/manifesto-policies/</loc>
+    <lastmod>2017-03-17T14:34:28+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://madebykade.com/categories/manifesto-practices/</loc>
+    <lastmod>2017-03-17T14:34:28+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://madebykade.com/manifesto/</loc>
+    <lastmod>2017-03-17T14:34:28+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://madebykade.com/partners/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://madebykade.com/project/</loc>
+    <lastmod>2017-01-17T15:24:19+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://madebykade.com/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://madebykade.com/</loc>
+    <lastmod>2017-03-17T14:34:28+08:00</lastmod>
+    <priority>0</priority>
   </url>
   
 </urlset>

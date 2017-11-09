@@ -1,12 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>The Kade Collective</title>
-    <link>http://madebykade.com/categories/manifesto-policies/index.xml</link>
-    <description>Recent content on The Kade Collective</description>
+    <title>Manifesto Policies on The Kade Collective</title>
+    <link>http://madebykade.com/categories/manifesto-policies/</link>
+    <description>Recent content in Manifesto Policies on The Kade Collective</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <atom:link href="http://madebykade.com/categories/manifesto-policies/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 17 Mar 2017 14:34:28 +0800</lastBuildDate>
+    
+	<atom:link href="http://madebykade.com/categories/manifesto-policies/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>The Sport Star Policy</title>
@@ -14,25 +17,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://madebykade.com/manifesto/the-sport-star-policy/</guid>
-      <description>
-
-&lt;h3 id=&#34;overview&#34;&gt;Overview&lt;/h3&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Sport stars must be high performers&lt;/li&gt;
-&lt;li&gt;Sport stars are team players&lt;/li&gt;
-&lt;li&gt;Sport stars look after themselves.
-
-&lt;ul&gt;
-&lt;li&gt;They take time of when you need it&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;li&gt;Sport stars love what they do
-
-&lt;ul&gt;
-&lt;li&gt;Get back to work as soon as they are ready&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
+      <description> Overview  Sport stars must be high performers Sport stars are team players Sport stars look after themselves.  They take time of when you need it  Sport stars love what they do  Get back to work as soon as they are ready   </description>
     </item>
     
     <item>
@@ -41,33 +26,9 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://madebykade.com/manifesto/transparency-policy/</guid>
-      <description>
-
-&lt;h2 id=&#34;internal-transparency&#34;&gt;Internal transparency&lt;/h2&gt;
-
-&lt;p&gt;Everyone who is part of the Kade Collective practices &lt;a href=&#34;http://firstround.com/review/radical-candor-the-surprising-secret-to-being-a-good-boss/&#34;&gt;Radical Condor&lt;/a&gt;.
-This means that we are 100% transparent internally. Everything to do with strategy and personal performance is discussed openly.&lt;/p&gt;
-
-&lt;h2 id=&#34;public-facing-transparency&#34;&gt;Public facing transparency&lt;/h2&gt;
-
-&lt;p&gt;The following is public&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Salaries&lt;/li&gt;
-&lt;li&gt;Profit&lt;/li&gt;
-&lt;li&gt;Revenues&lt;/li&gt;
-&lt;li&gt;Traffic&lt;/li&gt;
-&lt;li&gt;General Practices&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;what-are-the-exceptions&#34;&gt;What are the exceptions?&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Company valuations (this is because it may scare off investors. If their appetitie is public, then it could harm them when trying to close deals in the future)&lt;/li&gt;
-&lt;li&gt;If a project does not directly belong to us, we will only expose information that already publicly available&lt;/li&gt;
-&lt;li&gt;We will not expose any practices which give us a competitive advantage&lt;/li&gt;
-&lt;/ul&gt;
-</description>
+      <description> Internal transparency Everyone who is part of the Kade Collective practices Radical Condor. This means that we are 100% transparent internally. Everything to do with strategy and personal performance is discussed openly.
+Public facing transparency The following is public
+ Salaries Profit Revenues Traffic General Practices  What are the exceptions?  Company valuations (this is because it may scare off investors. If their appetitie is public, then it could harm them when trying to close deals in the future) If a project does not directly belong to us, we will only expose information that already publicly available We will not expose any practices which give us a competitive advantage  </description>
     </item>
     
     <item>
@@ -76,12 +37,8 @@ This means that we are 100% transparent internally. Everything to do with strate
       <pubDate>Fri, 17 Mar 2017 14:34:28 +0800</pubDate>
       
       <guid>http://madebykade.com/manifesto/reasonable-person-policy/</guid>
-      <description>
-
-&lt;p&gt;Nothing to see here &amp;hellip; yet&lt;/p&gt;
-
-&lt;h2 id=&#34;only-argue-with-people-who-seek-the-truth&#34;&gt;Only argue with people who seek the truth&lt;/h2&gt;
-</description>
+      <description> Nothing to see here &amp;hellip; yet
+Only argue with people who seek the truth </description>
     </item>
     
     <item>
@@ -90,8 +47,7 @@ This means that we are 100% transparent internally. Everything to do with strate
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://madebykade.com/manifesto/the-fristy-protocol/</guid>
-      <description>&lt;p&gt;Nothing to see here &amp;hellip; yet&lt;/p&gt;
-</description>
+      <description>Nothing to see here &amp;hellip; yet</description>
     </item>
     
   </channel>

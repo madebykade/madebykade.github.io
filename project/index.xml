@@ -1,48 +1,25 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Project-rsses on The Kade Collective</title>
-    <link>http://madebykade.com/project/index.xml</link>
-    <description>Recent content in Project-rsses on The Kade Collective</description>
+    <title>Projects on The Kade Collective</title>
+    <link>http://madebykade.com/project/</link>
+    <description>Recent content in Projects on The Kade Collective</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 17 Mar 2017 15:24:19 +0800</lastBuildDate>
-    <atom:link href="http://madebykade.com/project/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 17 Jan 2017 15:24:19 +0800</lastBuildDate>
+    
+	<atom:link href="http://madebykade.com/project/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
-      <title>Driffft</title>
-      <link>http://madebykade.com/project/driffft/</link>
-      <pubDate>Fri, 17 Mar 2017 15:24:19 +0800</pubDate>
+      <title>Kade (under development)</title>
+      <link>http://madebykade.com/project/kade/</link>
+      <pubDate>Tue, 17 Jan 2017 15:24:19 +0800</pubDate>
       
-      <guid>http://madebykade.com/project/driffft/</guid>
-      <description>&lt;p&gt;Driffft is an online marketplace for diving and underwater activities.&lt;/p&gt;
+      <guid>http://madebykade.com/project/kade/</guid>
+      <description>&lt;p&gt;We have various side projects that we are exploring for commercial viability.&lt;/p&gt;
 
-&lt;p&gt;&lt;/p&gt;
-
-&lt;h3 id=&#34;sites&#34;&gt;Sites&lt;/h3&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Driffft &lt;a href=&#34;https://driffft.com/&#34;&gt;link&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Blog &lt;a href=&#34;https://blog.driffft.com/&#34;&gt;link&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</description>
-    </item>
-    
-    <item>
-      <title>Gas and Equipment</title>
-      <link>http://madebykade.com/project/gas-and-equipment/</link>
-      <pubDate>Fri, 17 Mar 2017 15:24:19 +0800</pubDate>
-      
-      <guid>http://madebykade.com/project/gas-and-equipment/</guid>
-      <description>&lt;p&gt;Suppliers of Gas and Equipment in Australia and New Zealand&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;
-
-&lt;h3 id=&#34;sites&#34;&gt;Sites&lt;/h3&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Web store &lt;a href=&#34;http://gasandequipment.com&#34;&gt;link&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;B2B landing page &lt;a href=&#34;http://pacgas.com.au/&#34;&gt;link&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</description>
+&lt;p&gt;&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -53,33 +30,18 @@
       <guid>http://madebykade.com/project/the-growing-group/</guid>
       <description>&lt;p&gt;The Growing Group is a collection of companies that provide technology and commercial solutions for long term sustainability.&lt;/p&gt;
 
-&lt;p&gt;&lt;/p&gt;
-
-&lt;h3 id=&#34;sites&#34;&gt;Sites&lt;/h3&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Parent Company &lt;a href=&#34;http://thegrowinggroup.com/&#34;&gt;link&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Miproform &lt;a href=&#34;http://miproform.com/&#34;&gt;link&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Eneform &lt;a href=&#34;http://eneform.com/&#34;&gt;link&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Ag.ree &lt;a href=&#34;http://ag-ree.com/&#34;&gt;link&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</description>
+&lt;p&gt;&lt;/p&gt;</description>
     </item>
     
     <item>
-      <title>BraineeBox</title>
-      <link>http://madebykade.com/project/brainee-box/</link>
+      <title>Gas and Equipment</title>
+      <link>http://madebykade.com/project/gas-and-equipment/</link>
       <pubDate>Fri, 17 Mar 2017 15:24:19 +0800</pubDate>
       
-      <guid>http://madebykade.com/project/brainee-box/</guid>
-      <description>&lt;p&gt;BraineeBox is a nootropics company that provides safe and easy to understand information cognitive enhancers.&lt;/p&gt;
+      <guid>http://madebykade.com/project/gas-and-equipment/</guid>
+      <description>&lt;p&gt;Suppliers of Gas and Equipment in Australia and New Zealand&lt;/p&gt;
 
-&lt;p&gt;&lt;/p&gt;
-
-&lt;h3 id=&#34;sites&#34;&gt;Sites&lt;/h3&gt;
-
-&lt;ul&gt;
-&lt;li&gt;BraineeBox &lt;a href=&#34;http://braineebox.com/&#34;&gt;link&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</description>
+&lt;p&gt;&lt;/p&gt;</description>
     </item>
     
   </channel>

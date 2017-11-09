@@ -1,12 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Partners-rsses on The Kade Collective</title>
-    <link>http://madebykade.com/partners/index.xml</link>
-    <description>Recent content in Partners-rsses on The Kade Collective</description>
+    <title>Partners on The Kade Collective</title>
+    <link>http://madebykade.com/partners/</link>
+    <description>Recent content in Partners on The Kade Collective</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <atom:link href="http://madebykade.com/partners/index.xml" rel="self" type="application/rss+xml" />
+    
+	<atom:link href="http://madebykade.com/partners/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>Paul Copplestone</title>

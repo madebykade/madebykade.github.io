@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on The Kade Collective</title>
+    <link>http://madebykade.com/categories/</link>
+    <description>Recent content in Categories on The Kade Collective</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="http://madebykade.com/categories/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Manifesto Company</title>
+      <link>http://madebykade.com/categories/manifesto-company/</link>
+      <pubDate>Fri, 17 Mar 2017 14:34:28 +0800</pubDate>
+      
+      <guid>http://madebykade.com/categories/manifesto-company/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Manifesto Policies</title>
+      <link>http://madebykade.com/categories/manifesto-policies/</link>
+      <pubDate>Fri, 17 Mar 2017 14:34:28 +0800</pubDate>
+      
+      <guid>http://madebykade.com/categories/manifesto-policies/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Manifesto Practices</title>
+      <link>http://madebykade.com/categories/manifesto-practices/</link>
+      <pubDate>Fri, 17 Mar 2017 14:34:28 +0800</pubDate>
+      
+      <guid>http://madebykade.com/categories/manifesto-practices/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

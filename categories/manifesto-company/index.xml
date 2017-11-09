@@ -1,12 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>The Kade Collective</title>
-    <link>http://madebykade.com/categories/manifesto-company/index.xml</link>
-    <description>Recent content on The Kade Collective</description>
+    <title>Manifesto Company on The Kade Collective</title>
+    <link>http://madebykade.com/categories/manifesto-company/</link>
+    <description>Recent content in Manifesto Company on The Kade Collective</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <atom:link href="http://madebykade.com/categories/manifesto-company/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 17 Mar 2017 14:34:28 +0800</lastBuildDate>
+    
+	<atom:link href="http://madebykade.com/categories/manifesto-company/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>Collective Assets</title>
@@ -16,63 +19,7 @@
       <guid>http://madebykade.com/manifesto/collective-assets/</guid>
       <description>&lt;p&gt;Purpose of this page: to outline the key assets that all members of the Kade Collective have at their disposal.&lt;/p&gt;
 
-&lt;p&gt;&lt;/p&gt;
-
-&lt;p&gt;This Kade Collective have numerous assets that can be used across any projects. All expenses are covered by Kade.&lt;/p&gt;
-
-&lt;h2 id=&#34;technological-software-a-mixture-of-free-and-paid-services&#34;&gt;Technological &amp;amp; Software (a mixture of free and paid services)&lt;/h2&gt;
-
-&lt;h5 id=&#34;development-tech&#34;&gt;Development / Tech&lt;/h5&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Hosting: AWS &amp;amp; GCP&lt;/li&gt;
-&lt;li&gt;Domain registration: AWS and Namecheap&lt;/li&gt;
-&lt;li&gt;Source management: Github &amp;amp; Bitbucket&lt;/li&gt;
-&lt;li&gt;Continuous integration servers: CircleCI&lt;/li&gt;
-&lt;li&gt;Monitoring and error reporting tools: Sentry, Datadog&lt;/li&gt;
-&lt;li&gt;In-house hardware: GTX970 GPU&amp;rsquo;s for AI/Deep Learning&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h5 id=&#34;communication-collaboration-tools&#34;&gt;Communication &amp;amp; Collaboration tools&lt;/h5&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Internal comms: Slack&lt;/li&gt;
-&lt;li&gt;Email systems: Office 365, Google, internal&lt;/li&gt;
-&lt;li&gt;Design: Figma / Invision&lt;/li&gt;
-&lt;li&gt;Project collaboration: Trello, JIRA&lt;/li&gt;
-&lt;li&gt;Wiki: GitHub&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h5 id=&#34;marketing-and-analytics&#34;&gt;Marketing and Analytics&lt;/h5&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Customer support: Intercom or &lt;a href=&#34;https://www.livechatinc.com/why-livechat/&#34;&gt;LiveChat&lt;/a&gt;, integrated with wit.ai&lt;/li&gt;
-&lt;li&gt;Mailing systems: Mailtrain&lt;/li&gt;
-&lt;li&gt;Image stock: Shutterstock&lt;/li&gt;
-&lt;li&gt;Media and online presence: Buzzbundle&lt;/li&gt;
-&lt;li&gt;Analytics: Google Analytics, CompassCo&lt;/li&gt;
-&lt;li&gt;Data warehouse: Snowplow self hosted&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h5 id=&#34;general&#34;&gt;General&lt;/h5&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Password: Lastpass&lt;/li&gt;
-&lt;li&gt;File sharing: Dropbox&lt;/li&gt;
-&lt;li&gt;Payment Gateway: Stripe&lt;/li&gt;
-&lt;li&gt;Accounting: Zipbooks&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;talent-pool-non-partners&#34;&gt;Talent pool (non-partners)&lt;/h2&gt;
-
-&lt;p&gt;These talents will be brought in-house once the workload is sufficient&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Digital marketing experts&lt;/li&gt;
-&lt;li&gt;Content creators&lt;/li&gt;
-&lt;li&gt;Data scientist&lt;/li&gt;
-&lt;li&gt;Accounting and admin&lt;/li&gt;
-&lt;/ul&gt;</description>
+&lt;p&gt;&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -83,16 +30,7 @@
       <guid>http://madebykade.com/manifesto/frat-house/</guid>
       <description>&lt;p&gt;Purpose of this page: this page describes how the incubator works. TL;DR: Kade will incubate other companies in exchange for 10% equity. Kade will provide seed capital, expertise, and access to all collective assets.&lt;/p&gt;
 
-&lt;p&gt;&lt;/p&gt;
-
-&lt;h4 id=&#34;frat-house&#34;&gt;Frat House&lt;/h4&gt;
-
-&lt;ul&gt;
-&lt;li&gt;give 20K USD&lt;/li&gt;
-&lt;li&gt;take 10% equity&lt;/li&gt;
-&lt;li&gt;Partners help build the company&lt;/li&gt;
-&lt;li&gt;companies need to adhere to the transparency policy (show numbers, traffic etc) - this will be published by Kade each month anyhow. Valuations are not required to be&lt;/li&gt;
-&lt;/ul&gt;</description>
+&lt;p&gt;&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -103,126 +41,7 @@
       <guid>http://madebykade.com/manifesto/profit-sharing/</guid>
       <description>&lt;p&gt;Purpose of this page: this page describes how full time employees are compensated once they become part of the Kade Collective.&lt;/p&gt;
 
-&lt;p&gt;&lt;/p&gt;
-
-&lt;h2 id=&#34;the-how&#34;&gt;The How&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;People who join Kade fulltime become &amp;ldquo;Partners&amp;rdquo;&lt;/li&gt;
-&lt;li&gt;Kade pays 50% of its profit to partners every month in the form of bonuses (see below).&lt;/li&gt;
-&lt;li&gt;Kade invests 10% of its profit into a retirement fund (see &lt;a href=&#34;http://madebykade.com/manifesto/retirement-fund&#34;&gt;Retirement Fund&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;The remaining 40% is used on growth (marketing) or kept as a cash reserve for future projects or to cover basic income&lt;/li&gt;
-&lt;li&gt;Kade covers all expenses for projects (see &lt;a href=&#34;http://madebykade.com/manifesto/collective-assets&#34;&gt;Collective Assets&lt;/a&gt;)&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;img src=&#34;http://madebykade.com/images/kade-monthly-profit.png&#34; alt=&#34;alt text&#34; title=&#34;Kade Monthly Profit&#34; /&gt;&lt;/p&gt;
-
-&lt;h5 id=&#34;profit-sharing-bonuses&#34;&gt;Profit Sharing Bonuses&lt;/h5&gt;
-
-&lt;p&gt;There are 3 types of partner, corresponding to their contribution to the company&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Full Partner (weighting = 10)&lt;/li&gt;
-&lt;li&gt;Senior Partner (weighting = 7)&lt;/li&gt;
-&lt;li&gt;Junior Partner (weighting = 3)&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Each month the total bonus pool is split among the partners who are still active in the company.&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;Example&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;If Kade has $80K profit one month, the bonus pool would be $40K (80K * 50%). If there are 3 partners in the company - one Junior, one Senior, one Full - then the total bonus pool would be 20 (10 + 7 + 3). The bonus payout would be as follows:&lt;/p&gt;
-
-&lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th&gt;Partner&lt;/th&gt;
-&lt;th&gt;Weighting&lt;/th&gt;
-&lt;th&gt;Bonus&lt;/th&gt;
-&lt;th&gt;Explanation&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td&gt;Full Partner&lt;/td&gt;
-&lt;td&gt;10&lt;/td&gt;
-&lt;td&gt;$21,000&lt;/td&gt;
-&lt;td&gt;10 out of 20 points from the bonus pool (50%). They get 50% of the profit share&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;Senior Partner&lt;/td&gt;
-&lt;td&gt;7&lt;/td&gt;
-&lt;td&gt;$14,700&lt;/td&gt;
-&lt;td&gt;7 out of 20 points from the bonus pool (35%). They get 35% of the profit share&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;Junior Partner&lt;/td&gt;
-&lt;td&gt;3&lt;/td&gt;
-&lt;td&gt;$6,300&lt;/td&gt;
-&lt;td&gt;3 out of 20 points from the bonus pool (15%). They get 15% of the profit share&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
-&lt;/table&gt;
-
-&lt;p&gt;There is an incentive to minimize the number of partners and maximize the profit. Partners are therefore commercially focused as well as operationally focused.&lt;/p&gt;
-
-&lt;h5 id=&#34;work-3-day-week&#34;&gt;Work: 3 day week&lt;/h5&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Partners are expected to work 3 days per week on Kade Projects.&lt;/li&gt;
-&lt;li&gt;Partners are expected to work for 2 days per week in the &lt;a href=&#34;http://madebykade.com/manifesto/frat-house&#34;&gt;Frat House&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Partners have unlimited leave.&lt;/li&gt;
-&lt;li&gt;Partners are expected to uphold the &lt;a href=&#34;http://madebykade.com/manifesto/the-sport-star-policy/&#34;&gt;Sport Star Policy&lt;/a&gt; (specifically, do what is best for the team).&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h5 id=&#34;non-partners&#34;&gt;Non-partners&lt;/h5&gt;
-
-&lt;p&gt;Kade still employs people as non-partners (usually outsourced) for menial tasks that don&amp;rsquo;t directly contribute to the culture of collaboration. The type of work which is required to be performed in Kade is as important as the people who become partners. If they work doesn&amp;rsquo;t directly contribute to an individual&amp;rsquo;s growth, the company covers the cost. The message is simple: Partners help Kade grow, Kade helps Partners to grow.&lt;/p&gt;
-
-&lt;h2 id=&#34;benefits&#34;&gt;Benefits&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;By working only one mandatory day per week, we are forced to make our businesses simple and autonomous&lt;/li&gt;
-&lt;li&gt;Autonomy to work on your own projects is (in my opinion) they biggest driver for workplace satisfaction, with the exception of personal growth. For a developer, personal growth is strongly tied to the work they do, so this is a mutually inclusive outcome&lt;/li&gt;
-&lt;li&gt;By sharing profits we ensure transparency and a sense of ownership, as well as a collective ambition to keep costs low and focus on valuable projects&lt;/li&gt;
-&lt;li&gt;Since Partners feel ownership, it is in their interest to routinely improve this manifesto&lt;/li&gt;
-&lt;li&gt;Profit sharing overcomes the shortfalls of Employee Share Options, where share allocations are disproportionately skewed towards early joiners&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;challenges&#34;&gt;Challenges&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;There will be friction arise around how soon a partner should be promoted
-
-&lt;ul&gt;
-&lt;li&gt;360 / evaluations?&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;li&gt;Dealing with underperforming partners. Possible mitigations:
-
-&lt;ul&gt;
-&lt;li&gt;360 / evaluations?&lt;/li&gt;
-&lt;li&gt;Long probation periods with constant feedback&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;li&gt;Partners who join could immediately be earning more than others who have been with the company a long time. Possible mitigations:
-
-&lt;ul&gt;
-&lt;li&gt;add a yearly multiplier / bonus?&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;li&gt;Outsourcing menial jobs is probably not efficient in the long term. Possible mitigations:
-
-&lt;ul&gt;
-&lt;li&gt;Get an internal operations team, but they should be managed separately to allow them to develop their own culture&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;li&gt;Early joiners take on more risk than those who join once the business is already profitable. Possible mitigation:
-
-&lt;ul&gt;
-&lt;li&gt;Give a yearly bonus (multiplied by number of years)&lt;/li&gt;
-&lt;li&gt;Set up retirement fund for all employees - they earn shares in the fund based on the number of years they work (multiplied by their Partner level)&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;/ul&gt;</description>
+&lt;p&gt;&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -233,50 +52,7 @@
       <guid>http://madebykade.com/manifesto/retirement-fund/</guid>
       <description>&lt;p&gt;Purpose of this page: this page describes profits are invested into a Retirement fund. Partners earn shares in this fund each month. 5% of monthly profit is automatically invested into Exchange Traded Funds. Partners vest shares in this fund every month.&lt;/p&gt;
 
-&lt;p&gt;&lt;/p&gt;
-
-&lt;h4 id=&#34;exchange-traded-funds&#34;&gt;Exchange traded Funds&lt;/h4&gt;
-
-&lt;p&gt;This 10% is split evenly between two Exchange traded fund:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;http://etfdb.com/etf/VOO/&#34;&gt;http://etfdb.com/etf/VOO/&lt;/a&gt; (this is an Equities ETF which is chosen because its performance and 0.05% management fee)&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://etfdb.com/etf/SCHD/&#34;&gt;http://etfdb.com/etf/SCHD/&lt;/a&gt; (this is an Dividends ETF which is chosen because its performance and 0.07% management fee)&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;The retirement funds are traded openly on the stock market, so Partners can always know what the value of their shareholding is.&lt;/p&gt;
-
-&lt;h4 id=&#34;vesting-by-partners&#34;&gt;Vesting by Partners&lt;/h4&gt;
-
-&lt;p&gt;All partners are entitled to the Retirement Fund. Once a partner has passed their probation period (3 months) they immediately begin vesting a &amp;ldquo;share&amp;rdquo; in the fund. Vesting occurs in monthly cliffs. The number of shares that they vest each month depend on their tier&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Full Partner (weighting = 10)&lt;/li&gt;
-&lt;li&gt;Senior Partner (weighting = 7)&lt;/li&gt;
-&lt;li&gt;Junior Partner (weighting = 3)&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;em&gt;Example&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;If there are one of each partner (all starting at the same time), then after one year the ownership in the Retirement Fund would look like the following:&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;http://madebykade.com/images/retirementfund-example1.png&#34; alt=&#34;alt text&#34; title=&#34;Kade Retirement Fund Example&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;If we used the same scenario, but the&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;http://madebykade.com/images/retirementfund-example2.png&#34; alt=&#34;alt text&#34; title=&#34;Kade Retirement Fund Example&#34; /&gt;&lt;/p&gt;
-
-&lt;h5 id=&#34;use-of-these-funds-by-kade&#34;&gt;Use of these funds by Kade&lt;/h5&gt;
-
-&lt;p&gt;Kade will not use these funds for business. The funds belong to the Partner&lt;/p&gt;
-
-&lt;h5 id=&#34;buying-and-selling-the-shares-by-partners&#34;&gt;Buying and selling the shares by Partners&lt;/h5&gt;
-
-&lt;p&gt;Since the ETF&amp;rsquo;s are traded publicly, any Partner can sell their shares at the market rate.&lt;/p&gt;
-
-&lt;h5 id=&#34;leaving-the-company&#34;&gt;Leaving the company&lt;/h5&gt;
-
-&lt;p&gt;There is no requirement to sell the shares in the fund when a Partner leaves.&lt;/p&gt;</description>
+&lt;p&gt;&lt;/p&gt;</description>
     </item>
     
   </channel>

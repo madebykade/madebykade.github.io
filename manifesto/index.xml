@@ -1,37 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Manifesto-rsses on The Kade Collective</title>
-    <link>http://madebykade.com/manifesto/index.xml</link>
-    <description>Recent content in Manifesto-rsses on The Kade Collective</description>
+    <title>Manifestos on The Kade Collective</title>
+    <link>http://madebykade.com/manifesto/</link>
+    <description>Recent content in Manifestos on The Kade Collective</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <atom:link href="http://madebykade.com/manifesto/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 17 Mar 2017 14:34:28 +0800</lastBuildDate>
     
-    <item>
-      <title></title>
-      <link>http://madebykade.com/manifesto/README/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://madebykade.com/manifesto/README/</guid>
-      <description>
-
-&lt;h3 id=&#34;the-kade-collective-manifesto&#34;&gt;The Kade Collective manifesto&lt;/h3&gt;
-
-&lt;p&gt;See more at &lt;a href=&#34;http://madebykade.com/manifesto&#34;&gt;http://madebykade.com/manifesto&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Our manifesto is an open declaration of how we intend to operate. It is as mutuable as any policy that is confronted with the real world.&lt;/p&gt;
-
-&lt;p&gt;The manifesto is not designed to be universally applicable.
-It is designed to see how a group of like minded people work together while learning a few things about organisational theory along the way. It is strongly shaped by our past experience and iteratively improved upon as we continue to work together.&lt;/p&gt;
-
-&lt;h2 id=&#34;todo&#34;&gt;TODO&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Making Decisions - 70% information, don&amp;rsquo;t wait for 90%. Disagree and commit. (Jeff Bezos)&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
+	<atom:link href="http://madebykade.com/manifesto/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>Profit Sharing</title>
@@ -41,126 +19,7 @@ It is designed to see how a group of like minded people work together while lear
       <guid>http://madebykade.com/manifesto/profit-sharing/</guid>
       <description>&lt;p&gt;Purpose of this page: this page describes how full time employees are compensated once they become part of the Kade Collective.&lt;/p&gt;
 
-&lt;p&gt;&lt;/p&gt;
-
-&lt;h2 id=&#34;the-how&#34;&gt;The How&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;People who join Kade fulltime become &amp;ldquo;Partners&amp;rdquo;&lt;/li&gt;
-&lt;li&gt;Kade pays 50% of its profit to partners every month in the form of bonuses (see below).&lt;/li&gt;
-&lt;li&gt;Kade invests 10% of its profit into a retirement fund (see &lt;a href=&#34;http://madebykade.com/manifesto/retirement-fund&#34;&gt;Retirement Fund&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;The remaining 40% is used on growth (marketing) or kept as a cash reserve for future projects or to cover basic income&lt;/li&gt;
-&lt;li&gt;Kade covers all expenses for projects (see &lt;a href=&#34;http://madebykade.com/manifesto/collective-assets&#34;&gt;Collective Assets&lt;/a&gt;)&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;img src=&#34;http://madebykade.com/images/kade-monthly-profit.png&#34; alt=&#34;alt text&#34; title=&#34;Kade Monthly Profit&#34; /&gt;&lt;/p&gt;
-
-&lt;h5 id=&#34;profit-sharing-bonuses&#34;&gt;Profit Sharing Bonuses&lt;/h5&gt;
-
-&lt;p&gt;There are 3 types of partner, corresponding to their contribution to the company&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Full Partner (weighting = 10)&lt;/li&gt;
-&lt;li&gt;Senior Partner (weighting = 7)&lt;/li&gt;
-&lt;li&gt;Junior Partner (weighting = 3)&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Each month the total bonus pool is split among the partners who are still active in the company.&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;Example&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;If Kade has $80K profit one month, the bonus pool would be $40K (80K * 50%). If there are 3 partners in the company - one Junior, one Senior, one Full - then the total bonus pool would be 20 (10 + 7 + 3). The bonus payout would be as follows:&lt;/p&gt;
-
-&lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th&gt;Partner&lt;/th&gt;
-&lt;th&gt;Weighting&lt;/th&gt;
-&lt;th&gt;Bonus&lt;/th&gt;
-&lt;th&gt;Explanation&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td&gt;Full Partner&lt;/td&gt;
-&lt;td&gt;10&lt;/td&gt;
-&lt;td&gt;$21,000&lt;/td&gt;
-&lt;td&gt;10 out of 20 points from the bonus pool (50%). They get 50% of the profit share&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;Senior Partner&lt;/td&gt;
-&lt;td&gt;7&lt;/td&gt;
-&lt;td&gt;$14,700&lt;/td&gt;
-&lt;td&gt;7 out of 20 points from the bonus pool (35%). They get 35% of the profit share&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;Junior Partner&lt;/td&gt;
-&lt;td&gt;3&lt;/td&gt;
-&lt;td&gt;$6,300&lt;/td&gt;
-&lt;td&gt;3 out of 20 points from the bonus pool (15%). They get 15% of the profit share&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
-&lt;/table&gt;
-
-&lt;p&gt;There is an incentive to minimize the number of partners and maximize the profit. Partners are therefore commercially focused as well as operationally focused.&lt;/p&gt;
-
-&lt;h5 id=&#34;work-3-day-week&#34;&gt;Work: 3 day week&lt;/h5&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Partners are expected to work 3 days per week on Kade Projects.&lt;/li&gt;
-&lt;li&gt;Partners are expected to work for 2 days per week in the &lt;a href=&#34;http://madebykade.com/manifesto/frat-house&#34;&gt;Frat House&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Partners have unlimited leave.&lt;/li&gt;
-&lt;li&gt;Partners are expected to uphold the &lt;a href=&#34;http://madebykade.com/manifesto/the-sport-star-policy/&#34;&gt;Sport Star Policy&lt;/a&gt; (specifically, do what is best for the team).&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h5 id=&#34;non-partners&#34;&gt;Non-partners&lt;/h5&gt;
-
-&lt;p&gt;Kade still employs people as non-partners (usually outsourced) for menial tasks that don&amp;rsquo;t directly contribute to the culture of collaboration. The type of work which is required to be performed in Kade is as important as the people who become partners. If they work doesn&amp;rsquo;t directly contribute to an individual&amp;rsquo;s growth, the company covers the cost. The message is simple: Partners help Kade grow, Kade helps Partners to grow.&lt;/p&gt;
-
-&lt;h2 id=&#34;benefits&#34;&gt;Benefits&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;By working only one mandatory day per week, we are forced to make our businesses simple and autonomous&lt;/li&gt;
-&lt;li&gt;Autonomy to work on your own projects is (in my opinion) they biggest driver for workplace satisfaction, with the exception of personal growth. For a developer, personal growth is strongly tied to the work they do, so this is a mutually inclusive outcome&lt;/li&gt;
-&lt;li&gt;By sharing profits we ensure transparency and a sense of ownership, as well as a collective ambition to keep costs low and focus on valuable projects&lt;/li&gt;
-&lt;li&gt;Since Partners feel ownership, it is in their interest to routinely improve this manifesto&lt;/li&gt;
-&lt;li&gt;Profit sharing overcomes the shortfalls of Employee Share Options, where share allocations are disproportionately skewed towards early joiners&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;challenges&#34;&gt;Challenges&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;There will be friction arise around how soon a partner should be promoted
-
-&lt;ul&gt;
-&lt;li&gt;360 / evaluations?&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;li&gt;Dealing with underperforming partners. Possible mitigations:
-
-&lt;ul&gt;
-&lt;li&gt;360 / evaluations?&lt;/li&gt;
-&lt;li&gt;Long probation periods with constant feedback&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;li&gt;Partners who join could immediately be earning more than others who have been with the company a long time. Possible mitigations:
-
-&lt;ul&gt;
-&lt;li&gt;add a yearly multiplier / bonus?&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;li&gt;Outsourcing menial jobs is probably not efficient in the long term. Possible mitigations:
-
-&lt;ul&gt;
-&lt;li&gt;Get an internal operations team, but they should be managed separately to allow them to develop their own culture&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;li&gt;Early joiners take on more risk than those who join once the business is already profitable. Possible mitigation:
-
-&lt;ul&gt;
-&lt;li&gt;Give a yearly bonus (multiplied by number of years)&lt;/li&gt;
-&lt;li&gt;Set up retirement fund for all employees - they earn shares in the fund based on the number of years they work (multiplied by their Partner level)&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;/ul&gt;</description>
+&lt;p&gt;&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -169,33 +28,9 @@ It is designed to see how a group of like minded people work together while lear
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://madebykade.com/manifesto/transparency-policy/</guid>
-      <description>
-
-&lt;h2 id=&#34;internal-transparency&#34;&gt;Internal transparency&lt;/h2&gt;
-
-&lt;p&gt;Everyone who is part of the Kade Collective practices &lt;a href=&#34;http://firstround.com/review/radical-candor-the-surprising-secret-to-being-a-good-boss/&#34;&gt;Radical Condor&lt;/a&gt;.
-This means that we are 100% transparent internally. Everything to do with strategy and personal performance is discussed openly.&lt;/p&gt;
-
-&lt;h2 id=&#34;public-facing-transparency&#34;&gt;Public facing transparency&lt;/h2&gt;
-
-&lt;p&gt;The following is public&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Salaries&lt;/li&gt;
-&lt;li&gt;Profit&lt;/li&gt;
-&lt;li&gt;Revenues&lt;/li&gt;
-&lt;li&gt;Traffic&lt;/li&gt;
-&lt;li&gt;General Practices&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;what-are-the-exceptions&#34;&gt;What are the exceptions?&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Company valuations (this is because it may scare off investors. If their appetitie is public, then it could harm them when trying to close deals in the future)&lt;/li&gt;
-&lt;li&gt;If a project does not directly belong to us, we will only expose information that already publicly available&lt;/li&gt;
-&lt;li&gt;We will not expose any practices which give us a competitive advantage&lt;/li&gt;
-&lt;/ul&gt;
-</description>
+      <description> Internal transparency Everyone who is part of the Kade Collective practices Radical Condor. This means that we are 100% transparent internally. Everything to do with strategy and personal performance is discussed openly.
+Public facing transparency The following is public
+ Salaries Profit Revenues Traffic General Practices  What are the exceptions?  Company valuations (this is because it may scare off investors. If their appetitie is public, then it could harm them when trying to close deals in the future) If a project does not directly belong to us, we will only expose information that already publicly available We will not expose any practices which give us a competitive advantage  </description>
     </item>
     
     <item>
@@ -206,16 +41,7 @@ This means that we are 100% transparent internally. Everything to do with strate
       <guid>http://madebykade.com/manifesto/frat-house/</guid>
       <description>&lt;p&gt;Purpose of this page: this page describes how the incubator works. TL;DR: Kade will incubate other companies in exchange for 10% equity. Kade will provide seed capital, expertise, and access to all collective assets.&lt;/p&gt;
 
-&lt;p&gt;&lt;/p&gt;
-
-&lt;h4 id=&#34;frat-house&#34;&gt;Frat House&lt;/h4&gt;
-
-&lt;ul&gt;
-&lt;li&gt;give 20K USD&lt;/li&gt;
-&lt;li&gt;take 10% equity&lt;/li&gt;
-&lt;li&gt;Partners help build the company&lt;/li&gt;
-&lt;li&gt;companies need to adhere to the transparency policy (show numbers, traffic etc) - this will be published by Kade each month anyhow. Valuations are not required to be&lt;/li&gt;
-&lt;/ul&gt;</description>
+&lt;p&gt;&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -226,50 +52,7 @@ This means that we are 100% transparent internally. Everything to do with strate
       <guid>http://madebykade.com/manifesto/retirement-fund/</guid>
       <description>&lt;p&gt;Purpose of this page: this page describes profits are invested into a Retirement fund. Partners earn shares in this fund each month. 5% of monthly profit is automatically invested into Exchange Traded Funds. Partners vest shares in this fund every month.&lt;/p&gt;
 
-&lt;p&gt;&lt;/p&gt;
-
-&lt;h4 id=&#34;exchange-traded-funds&#34;&gt;Exchange traded Funds&lt;/h4&gt;
-
-&lt;p&gt;This 10% is split evenly between two Exchange traded fund:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;http://etfdb.com/etf/VOO/&#34;&gt;http://etfdb.com/etf/VOO/&lt;/a&gt; (this is an Equities ETF which is chosen because its performance and 0.05% management fee)&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://etfdb.com/etf/SCHD/&#34;&gt;http://etfdb.com/etf/SCHD/&lt;/a&gt; (this is an Dividends ETF which is chosen because its performance and 0.07% management fee)&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;The retirement funds are traded openly on the stock market, so Partners can always know what the value of their shareholding is.&lt;/p&gt;
-
-&lt;h4 id=&#34;vesting-by-partners&#34;&gt;Vesting by Partners&lt;/h4&gt;
-
-&lt;p&gt;All partners are entitled to the Retirement Fund. Once a partner has passed their probation period (3 months) they immediately begin vesting a &amp;ldquo;share&amp;rdquo; in the fund. Vesting occurs in monthly cliffs. The number of shares that they vest each month depend on their tier&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Full Partner (weighting = 10)&lt;/li&gt;
-&lt;li&gt;Senior Partner (weighting = 7)&lt;/li&gt;
-&lt;li&gt;Junior Partner (weighting = 3)&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;em&gt;Example&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;If there are one of each partner (all starting at the same time), then after one year the ownership in the Retirement Fund would look like the following:&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;http://madebykade.com/images/retirementfund-example1.png&#34; alt=&#34;alt text&#34; title=&#34;Kade Retirement Fund Example&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;If we used the same scenario, but the&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;http://madebykade.com/images/retirementfund-example2.png&#34; alt=&#34;alt text&#34; title=&#34;Kade Retirement Fund Example&#34; /&gt;&lt;/p&gt;
-
-&lt;h5 id=&#34;use-of-these-funds-by-kade&#34;&gt;Use of these funds by Kade&lt;/h5&gt;
-
-&lt;p&gt;Kade will not use these funds for business. The funds belong to the Partner&lt;/p&gt;
-
-&lt;h5 id=&#34;buying-and-selling-the-shares-by-partners&#34;&gt;Buying and selling the shares by Partners&lt;/h5&gt;
-
-&lt;p&gt;Since the ETF&amp;rsquo;s are traded publicly, any Partner can sell their shares at the market rate.&lt;/p&gt;
-
-&lt;h5 id=&#34;leaving-the-company&#34;&gt;Leaving the company&lt;/h5&gt;
-
-&lt;p&gt;There is no requirement to sell the shares in the fund when a Partner leaves.&lt;/p&gt;</description>
+&lt;p&gt;&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -278,25 +61,7 @@ This means that we are 100% transparent internally. Everything to do with strate
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://madebykade.com/manifesto/the-sport-star-policy/</guid>
-      <description>
-
-&lt;h3 id=&#34;overview&#34;&gt;Overview&lt;/h3&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Sport stars must be high performers&lt;/li&gt;
-&lt;li&gt;Sport stars are team players&lt;/li&gt;
-&lt;li&gt;Sport stars look after themselves.
-
-&lt;ul&gt;
-&lt;li&gt;They take time of when you need it&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;li&gt;Sport stars love what they do
-
-&lt;ul&gt;
-&lt;li&gt;Get back to work as soon as they are ready&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
+      <description> Overview  Sport stars must be high performers Sport stars are team players Sport stars look after themselves.  They take time of when you need it  Sport stars love what they do  Get back to work as soon as they are ready   </description>
     </item>
     
     <item>
@@ -307,63 +72,7 @@ This means that we are 100% transparent internally. Everything to do with strate
       <guid>http://madebykade.com/manifesto/collective-assets/</guid>
       <description>&lt;p&gt;Purpose of this page: to outline the key assets that all members of the Kade Collective have at their disposal.&lt;/p&gt;
 
-&lt;p&gt;&lt;/p&gt;
-
-&lt;p&gt;This Kade Collective have numerous assets that can be used across any projects. All expenses are covered by Kade.&lt;/p&gt;
-
-&lt;h2 id=&#34;technological-software-a-mixture-of-free-and-paid-services&#34;&gt;Technological &amp;amp; Software (a mixture of free and paid services)&lt;/h2&gt;
-
-&lt;h5 id=&#34;development-tech&#34;&gt;Development / Tech&lt;/h5&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Hosting: AWS &amp;amp; GCP&lt;/li&gt;
-&lt;li&gt;Domain registration: AWS and Namecheap&lt;/li&gt;
-&lt;li&gt;Source management: Github &amp;amp; Bitbucket&lt;/li&gt;
-&lt;li&gt;Continuous integration servers: CircleCI&lt;/li&gt;
-&lt;li&gt;Monitoring and error reporting tools: Sentry, Datadog&lt;/li&gt;
-&lt;li&gt;In-house hardware: GTX970 GPU&amp;rsquo;s for AI/Deep Learning&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h5 id=&#34;communication-collaboration-tools&#34;&gt;Communication &amp;amp; Collaboration tools&lt;/h5&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Internal comms: Slack&lt;/li&gt;
-&lt;li&gt;Email systems: Office 365, Google, internal&lt;/li&gt;
-&lt;li&gt;Design: Figma / Invision&lt;/li&gt;
-&lt;li&gt;Project collaboration: Trello, JIRA&lt;/li&gt;
-&lt;li&gt;Wiki: GitHub&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h5 id=&#34;marketing-and-analytics&#34;&gt;Marketing and Analytics&lt;/h5&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Customer support: Intercom or &lt;a href=&#34;https://www.livechatinc.com/why-livechat/&#34;&gt;LiveChat&lt;/a&gt;, integrated with wit.ai&lt;/li&gt;
-&lt;li&gt;Mailing systems: Mailtrain&lt;/li&gt;
-&lt;li&gt;Image stock: Shutterstock&lt;/li&gt;
-&lt;li&gt;Media and online presence: Buzzbundle&lt;/li&gt;
-&lt;li&gt;Analytics: Google Analytics, CompassCo&lt;/li&gt;
-&lt;li&gt;Data warehouse: Snowplow self hosted&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h5 id=&#34;general&#34;&gt;General&lt;/h5&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Password: Lastpass&lt;/li&gt;
-&lt;li&gt;File sharing: Dropbox&lt;/li&gt;
-&lt;li&gt;Payment Gateway: Stripe&lt;/li&gt;
-&lt;li&gt;Accounting: Zipbooks&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;talent-pool-non-partners&#34;&gt;Talent pool (non-partners)&lt;/h2&gt;
-
-&lt;p&gt;These talents will be brought in-house once the workload is sufficient&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Digital marketing experts&lt;/li&gt;
-&lt;li&gt;Content creators&lt;/li&gt;
-&lt;li&gt;Data scientist&lt;/li&gt;
-&lt;li&gt;Accounting and admin&lt;/li&gt;
-&lt;/ul&gt;</description>
+&lt;p&gt;&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -372,12 +81,8 @@ This means that we are 100% transparent internally. Everything to do with strate
       <pubDate>Fri, 17 Mar 2017 14:34:28 +0800</pubDate>
       
       <guid>http://madebykade.com/manifesto/reasonable-person-policy/</guid>
-      <description>
-
-&lt;p&gt;Nothing to see here &amp;hellip; yet&lt;/p&gt;
-
-&lt;h2 id=&#34;only-argue-with-people-who-seek-the-truth&#34;&gt;Only argue with people who seek the truth&lt;/h2&gt;
-</description>
+      <description> Nothing to see here &amp;hellip; yet
+Only argue with people who seek the truth </description>
     </item>
     
     <item>
@@ -386,26 +91,9 @@ This means that we are 100% transparent internally. Everything to do with strate
       <pubDate>Fri, 17 Mar 2017 14:34:28 +0800</pubDate>
       
       <guid>http://madebykade.com/manifesto/running-projects-in-silos/</guid>
-      <description>
-
-&lt;p&gt;Profits are paid monthly to Partners in the Kade Collective. This frequency gives the Collective a mindset to incrementally improve the parts of the business that makes it more successful. This policy creates a challenge in that we need track each project individually for continuous improvement.&lt;/p&gt;
-
-&lt;p&gt;All projects are tracked via Google Analytics and Compass. Each project is siloed to cover the key aspects of the project&amp;rsquo;s health:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Revenue&lt;/li&gt;
-&lt;li&gt;Expenses&lt;/li&gt;
-&lt;li&gt;Traffic&lt;/li&gt;
-&lt;li&gt;Customer Acquisition Cost (CAC)&lt;/li&gt;
-&lt;li&gt;Lifetime Value (LTV)&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;additional-ways-of-separating&#34;&gt;Additional ways of separating&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;AWS tags: &lt;a href=&#34;https://aws.amazon.com/blogs/aws/aws-cost-allocation/&#34;&gt;https://aws.amazon.com/blogs/aws/aws-cost-allocation/&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
+      <description>Profits are paid monthly to Partners in the Kade Collective. This frequency gives the Collective a mindset to incrementally improve the parts of the business that makes it more successful. This policy creates a challenge in that we need track each project individually for continuous improvement.
+All projects are tracked via Google Analytics and Compass. Each project is siloed to cover the key aspects of the project&amp;rsquo;s health:
+ Revenue Expenses Traffic Customer Acquisition Cost (CAC) Lifetime Value (LTV)  Additional ways of separating  AWS tags: https://aws.</description>
     </item>
     
     <item>
@@ -414,13 +102,9 @@ This means that we are 100% transparent internally. Everything to do with strate
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://madebykade.com/manifesto/30-minute-rule/</guid>
-      <description>&lt;p&gt;When you get stuck, you should spend 30 mins trying to solve it yourself&lt;/p&gt;
-
-&lt;p&gt;After you have spent 30 mins, you must reach out for help&lt;/p&gt;
-
-&lt;p&gt;when you reach out for help you should state the things that you have tried
-when you have a problem you should always present 3 possible solutions&lt;/p&gt;
-</description>
+      <description>When you get stuck, you should spend 30 mins trying to solve it yourself
+After you have spent 30 mins, you must reach out for help
+when you reach out for help you should state the things that you have tried when you have a problem you should always present 3 possible solutions</description>
     </item>
     
     <item>
@@ -429,8 +113,7 @@ when you have a problem you should always present 3 possible solutions&lt;/p&gt;
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://madebykade.com/manifesto/the-fristy-protocol/</guid>
-      <description>&lt;p&gt;Nothing to see here &amp;hellip; yet&lt;/p&gt;
-</description>
+      <description>Nothing to see here &amp;hellip; yet</description>
     </item>
     
     <item>
@@ -439,140 +122,8 @@ when you have a problem you should always present 3 possible solutions&lt;/p&gt;
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://madebykade.com/manifesto/the-evaluation-framework/</guid>
-      <description>
-
-&lt;p&gt;Generally a set of &amp;ldquo;company values&amp;rdquo; are useless. The only value we hold at Kade is &lt;strong&gt;improvement&lt;/strong&gt;. Outside of that, individuals are welcome to improve in whatever they believe in. Below is a broad range of attributes that an individual can focus on which we believe contributes the most to themselves and the team.&lt;/p&gt;
-
-&lt;p&gt;Each atrribute represents one of many day-to-day practices that a team member with have, and they are grouped into three broad &amp;ldquo;roles&amp;rdquo; - Business Owner, Team Leader, and High Performer.&lt;/p&gt;
-
-&lt;h5 id=&#34;business-owner&#34;&gt;Business Owner&lt;/h5&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Diligent: Responsible, self motivating, and self disciplined&lt;/li&gt;
-&lt;li&gt;Egoless: seeks what is best for Kade even when it doesn&amp;rsquo;t satisfy their own ego&lt;/li&gt;
-&lt;li&gt;Enjoyable: Contributes to culture&lt;/li&gt;
-&lt;li&gt;Curious: Seeks to understand all parts of the business&lt;/li&gt;
-&lt;li&gt;Humble: Cleans the dishes and picks up trash&lt;/li&gt;
-&lt;li&gt;Sensible: thinks sustainably; incrementally; long term; commercially&lt;/li&gt;
-&lt;li&gt;Inspiring: inspires others through work ethic and contribution&lt;/li&gt;
-&lt;li&gt;Honest: doesn&amp;rsquo;t talk about people behind their backs&lt;/li&gt;
-&lt;li&gt;Candid: gives critical feedback well&lt;/li&gt;
-&lt;li&gt;Calm: if you always look busy it&amp;rsquo;s because you&amp;rsquo;re out of control. Don&amp;rsquo;t be busy, be focused&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h5 id=&#34;team-leader&#34;&gt;Team Leader&lt;/h5&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Adaptive: Owns and adapts processes to become more effective to increase output&lt;/li&gt;
-&lt;li&gt;Grows the team: Shares workload with team - sets context and offloads tasks when appropriate&lt;/li&gt;
-&lt;li&gt;Shares the load: picks up work from others when workload is imbalanced&lt;/li&gt;
-&lt;li&gt;Patient: lets others complete tasks (even when they can do it themselves) so that the team improves as a whole&lt;/li&gt;
-&lt;li&gt;Effective: pushes back on tasks that aren&amp;rsquo;t a priority or shouldn&amp;rsquo;t be done&lt;/li&gt;
-&lt;li&gt;Efficient: courage to question processes and minimise complexity&lt;/li&gt;
-&lt;li&gt;Self-aware: Honest and quick to admit mistakes&lt;/li&gt;
-&lt;li&gt;Charitable: Makes time to help colleagues&lt;/li&gt;
-&lt;li&gt;Maven: Shares information proactively&lt;/li&gt;
-&lt;li&gt;Stoic: Maintains calm when under stress&lt;/li&gt;
-&lt;li&gt;Embraces diverse working styles. Realises that improvement and conformity are not always related&lt;/li&gt;
-&lt;li&gt;Astute: makes the most of people&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h5 id=&#34;high-performer&#34;&gt;High Performer&lt;/h5&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Huge output: accomplishes amazing amounts of important work&lt;/li&gt;
-&lt;li&gt;Studious: a great learner who is always improving&lt;/li&gt;
-&lt;li&gt;Effective: Smartly prioritize your work&lt;/li&gt;
-&lt;li&gt;Consistent: colleagues can rely on you&lt;/li&gt;
-&lt;li&gt;Gets shit done: Focuses on results rather than getting caught up in the process&lt;/li&gt;
-&lt;li&gt;Holistic: Contributes outside your specialty&lt;/li&gt;
-&lt;li&gt;Risk taker: Takes smart risks&lt;/li&gt;
-&lt;li&gt;Autonomous: Can operate in solo when required. Doesn&amp;rsquo;t require need to be told what to do or require constant input from other team members&lt;/li&gt;
-&lt;li&gt;Creative: Creates idea and strategies that will benefit the company&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&#34;notable-exclusions&#34;&gt;Notable exclusions:&lt;/h3&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Fun: Fun is a function of actions and not a personal trait. This is incorporated into&lt;br /&gt;&lt;/li&gt;
-&lt;li&gt;Kindness: TBD&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&#34;benefits-of-evaluation&#34;&gt;Benefits of evaluation&lt;/h3&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Each partner can get a objective view of the area they can improve&lt;/li&gt;
-&lt;li&gt;Colleagues take time to notice the things that you do well&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&#34;typical-archetypes&#34;&gt;Typical archetypes&lt;/h3&gt;
-
-&lt;p&gt;Possible outcomes to watch out for. Usually noticing this in yourself is enough to correct any bad habits&lt;/p&gt;
-
-&lt;h5 id=&#34;the-consultant-strong-performer-weak-team-leader&#34;&gt;The Consultant - Strong Performer, Weak Team Leader&lt;/h5&gt;
-
-&lt;p&gt;This attitude is typically makes a person non-expendable due to their huge work output, but can be quite selfish in terms of their work.
-They will rarely share their work with others in a effort to make themselves more valued/non-expendable
-They usually fail to recognise that being the only one in the team that has their skills/knowledge is not a good thing
-These people are can be Strong Business Owners too - usually very disciplined or work long hours&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Motivations&lt;/strong&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;“I only want to share / say when I master this”
-
-&lt;ul&gt;
-&lt;li&gt;Coachable&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;li&gt;“this is the only thing that kept me ahead in the team”
-
-&lt;ul&gt;
-&lt;li&gt;make the team “safe” and people feel secured and not comparing with each other but competing with world-class external benchamark&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h5 id=&#34;the-friend-strong-business-owner-weak-performer&#34;&gt;The Friend - Strong Business Owner, Weak Performer&lt;/h5&gt;
-
-&lt;p&gt;This is the hard working and affable colleague
-They usually give a 110% to their work and are extremely likeable&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Motivations&lt;/strong&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&amp;ldquo;I know I can&amp;rsquo;t keep up with the team so I will work extra hard&amp;rdquo;
-
-&lt;ul&gt;
-&lt;li&gt;Determine whether they can upskill quickly or not&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;li&gt;Self awareness is low - believes they are performing well even though the are not
-
-&lt;ul&gt;
-&lt;li&gt;Call out early - give them feedback&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h4 id=&#34;the-delegator-strong-team-leader-weak-performer&#34;&gt;The Delegator - Strong Team Leader, Weak Performer&lt;/h4&gt;
-
-&lt;p&gt;This person is great at telling you how much work they are doing
-They usually offload their tasks to others, or worse they do the work and it is low quality and has to be redone later on by other team members&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Motivations&lt;/strong&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Self awareness is low - believes they are performing well even though the are not
-
-&lt;ul&gt;
-&lt;li&gt;Call out early - give them feedback&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h4 id=&#34;the-idealist-strong-business-owner-weak-team-leader-and-weak-performer&#34;&gt;The Idealist - Strong Business Owner, Weak Team Leader and weak performer&lt;/h4&gt;
-
-&lt;p&gt;Needs improvement: there is nothing wrong with being an Idealist. You must be consistent and back up what you say though
-This person is great at inspiring others
-Overall this person lacks consistency
-Great with large crowds and usually one on one - normally not great at managing or working in a team or interpersonal dynamics&lt;/p&gt;
-</description>
+      <description>Generally a set of &amp;ldquo;company values&amp;rdquo; are useless. The only value we hold at Kade is improvement. Outside of that, individuals are welcome to improve in whatever they believe in. Below is a broad range of attributes that an individual can focus on which we believe contributes the most to themselves and the team.
+Each atrribute represents one of many day-to-day practices that a team member with have, and they are grouped into three broad &amp;ldquo;roles&amp;rdquo; - Business Owner, Team Leader, and High Performer.</description>
     </item>
     
     <item>
@@ -581,31 +132,20 @@ Great with large crowds and usually one on one - normally not great at managing 
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://madebykade.com/manifesto/weekly-routine/</guid>
-      <description>
-
-&lt;h2 id=&#34;mandatory&#34;&gt;Mandatory&lt;/h2&gt;
-
-&lt;p&gt;Daily: scrum
-Wednesday: workday&lt;/p&gt;
-
-&lt;h2 id=&#34;optional&#34;&gt;Optional&lt;/h2&gt;
-
-&lt;h4 id=&#34;tuesday&#34;&gt;Tuesday&lt;/h4&gt;
-
-&lt;p&gt;Planning day - what work to do tomorrow&lt;/p&gt;
-
-&lt;h4 id=&#34;friday&#34;&gt;Friday&lt;/h4&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Manifesto retrospective - make changes to the manifesto&lt;/li&gt;
-&lt;li&gt;Swarming&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;Superstars (go up) vs rockstars (go out)
-- thought partners: how to manage Superstars&lt;/p&gt;
-</description>
+      <description>Mandatory Daily: scrum Wednesday: workday
+Optional Tuesday Planning day - what work to do tomorrow
+Friday  Manifesto retrospective - make changes to the manifesto Swarming  Superstars (go up) vs rockstars (go out) - thought partners: how to manage Superstars</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://madebykade.com/manifesto/readme/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://madebykade.com/manifesto/readme/</guid>
+      <description>The Kade Collective manifesto See more at http://madebykade.com/manifesto
+Our manifesto is an open declaration of how we intend to operate. It is as mutuable as any policy that is confronted with the real world.
+The manifesto is not designed to be universally applicable. It is designed to see how a group of like minded people work together while learning a few things about organisational theory along the way. It is strongly shaped by our past experience and iteratively improved upon as we continue to work together.</description>
     </item>
     
   </channel>
